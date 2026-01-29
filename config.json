@@ -1,7 +1,7 @@
 {
   "players": [
-    { "id": "bublik", "name": "Alexander Bublik", "avatar": "avatar_bublik" },
-    { "id": "djokovic", "name": "Novak Djokovic", "avatar": "avatar_djokovic" }
+    { "id": "bublik", "name": "Alexander Bublik", "playerAvatar": "avatar_bublik" },
+    { "id": "djokovic", "name": "Novak Djokovic", "opponentAvatar": "avatar_djokovic" }
   ],
   "matches": [
     {
