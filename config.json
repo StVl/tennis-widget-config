@@ -1,12 +1,21 @@
 {
   "players": [
     { "id": "bublik", "name": "Alexander Bublik", "avatar": "avatar_bublik" },
-    { "id": "djokovic", "name": "Novak Djokovic", "avatar": "avatar_djokovic" }
+    { "id": "djokovic", "name": "Novak Djokovic", "avatar": "avatar_djokovic" },
+    { "id": "rublev", "name": "Aleksand Rublev", "avatar": "avatar_rublev" }
   ],
   "matches": [
     {
       "playerId": "bublik",
       "opponentId": "djokovic",
+      "tournament": "Australian Open 2026",
+      "stage": "1R",
+      "startAt": "2026-02-17T21:30:00+01:00",
+      "surface": "hard"
+    },
+    {
+      "playerId": "djokovic",
+      "opponentId": "rublev",
       "tournament": "Australian Open 2026",
       "stage": "1R",
       "startAt": "2026-02-17T21:30:00+01:00",
