@@ -1,8 +1,22 @@
 {
   "players": [
-    { "id": "bublik", "name": "Alexander Bublik", "avatar": "avatar_bublik" },
-    { "id": "djokovic", "name": "Novak Djokovic", "avatar": "avatar_djokovic" },
-    { "id": "rublev", "name": "Aleksand Rublev", "avatar": "avatar_rublev" }
+  { "id": "alcaraz", "name": "Carlos Alcaraz", "avatar": "avatar_alcaraz" },
+  { "id": "sinner", "name": "Jannik Sinner", "avatar": "avatar_sinner" },
+  { "id": "djokovic", "name": "Novak Djokovic", "avatar": "avatar_djokovic" },
+  { "id": "zverev", "name": "Alexander Zverev", "avatar": "avatar_zverev" },
+  { "id": "musetti", "name": "Lorenzo Musetti", "avatar": "avatar_musetti" },
+  { "id": "de_minaur", "name": "Alex de Minaur", "avatar": "avatar_de_minaur" },
+  { "id": "auger_aliassime", "name": "Felix Auger-Aliassime", "avatar": "avatar_auger_aliassime" },
+  { "id": "fritz", "name": "Taylor Fritz", "avatar": "avatar_fritz" },
+  { "id": "shelton", "name": "Ben Shelton", "avatar": "avatar_shelton" },
+  { "id": "bublik", "name": "Alexander Bublik", "avatar": "avatar_bublik" },
+  { "id": "medvedev", "name": "Daniil Medvedev", "avatar": "avatar_medvedev" },
+  { "id": "draper", "name": "Jack Draper", "avatar": "avatar_draper" },
+  { "id": "ruud", "name": "Casper Ruud", "avatar": "avatar_ruud" },
+  { "id": "rublev", "name": "Andrey Rublev", "avatar": "avatar_rublev" },
+  { "id": "davidovich_fokina", "name": "Alejandro Davidovich-Fokina", "avatar": "avatar_davidovich_fokina" },
+  { "id": "mensik", "name": "Jakub Mensik", "avatar": "avatar_mensik" },
+  { "id": "khachanov", "name": "Karen Khachanov", "avatar": "avatar_khachanov" }
   ],
   "matches": [
     {
