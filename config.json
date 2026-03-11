@@ -153,7 +153,7 @@
       "startAt": "2026-02-26T21:30:00+01:00",
       "surface": "hard",
       "status": "upcoming",
-      "defendingPoints": false,
+      "defendingPoints": 18,
       "headToHeadBeforeMatch": { "wins": 1, "losses": 3 }
     },
     {
@@ -165,7 +165,7 @@
       "startAt": "2026-02-27T19:00:00+01:00",
       "surface": "hard",
       "status": "upcoming",
-      "defendingPoints": true,
+      "defendingPoints": 0,
       "headToHeadBeforeMatch": { "wins": 4, "losses": 4 }
     }
   ],
