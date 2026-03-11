@@ -1,39 +1,185 @@
 {
-  "players": [
-  { "id": "alcaraz", "name": "Carlos Alcaraz", "avatar": "avatar_alcaraz" },
-  { "id": "sinner", "name": "Jannik Sinner", "avatar": "avatar_sinner" },
-  { "id": "djokovic", "name": "Novak Djokovic", "avatar": "avatar_djokovic" },
-  { "id": "zverev", "name": "Alexander Zverev", "avatar": "avatar_zverev" },
-  { "id": "musetti", "name": "Lorenzo Musetti", "avatar": "avatar_musetti" },
-  { "id": "de_minaur", "name": "Alex de Minaur", "avatar": "avatar_de_minaur" },
-  { "id": "auger_aliassime", "name": "Felix Auger-Aliassime", "avatar": "avatar_auger_aliassime" },
-  { "id": "fritz", "name": "Taylor Fritz", "avatar": "avatar_fritz" },
-  { "id": "shelton", "name": "Ben Shelton", "avatar": "avatar_shelton" },
-  { "id": "bublik", "name": "Alexander Bublik", "avatar": "avatar_bublik" },
-  { "id": "medvedev", "name": "Daniil Medvedev", "avatar": "avatar_medvedev" },
-  { "id": "draper", "name": "Jack Draper", "avatar": "avatar_draper" },
-  { "id": "ruud", "name": "Casper Ruud", "avatar": "avatar_ruud" },
-  { "id": "rublev", "name": "Andrey Rublev", "avatar": "avatar_rublev" },
-  { "id": "davidovich_fokina", "name": "Alejandro Davidovich-Fokina", "avatar": "avatar_davidovich_fokina" },
-  { "id": "mensik", "name": "Jakub Mensik", "avatar": "avatar_mensik" },
-  { "id": "khachanov", "name": "Karen Khachanov", "avatar": "avatar_khachanov" }
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-17T19:30:00Z",
+
+  "playStyles": [
+    {
+      "id": "aggressive_baseliner",
+      "name": "Агрессивный бейзлайнер",
+      "description": [
+        "играет в основном с задней линии",
+        "постоянно давит темпом",
+        "старается закончить розыгрыш виннером"
+      ]
+    },
+    {
+      "id": "counterpuncher",
+      "name": "Контрпанчер",
+      "description": [
+        "играет глубоко и стабильно",
+        "переживает атаку соперника",
+        "использует ошибки противника"
+      ]
+    },
+    {
+      "id": "all_court",
+      "name": "All-court player",
+      "description": [
+        "умеет играть везде",
+        "меняет темп",
+        "комбинирует заднюю линию и игру у сетки"
+      ]
+    },
+    {
+      "id": "servebot",
+      "name": "Servebot",
+      "description": [
+        "подача — главный инструмент",
+        "короткие розыгрыши",
+        "много тай-брейков"
+      ]
+    },
+    {
+      "id": "grinder",
+      "name": "Grinder",
+      "description": [
+        "длинные розыгрыши",
+        "физическое давление",
+        "изматывание соперника"
+      ]
+    }
   ],
+
+  "players": [
+    {
+      "id": "djokovic",
+      "name": "Novak Djokovic",
+      "avatar": "avatar_djokovic",
+      "ranking": { "current": 1, "seasonDelta": 1, "trend": "up" },
+      "playStyleId": "counterpuncher",
+      "temperament": ["терпение", "отличная защита", "психологическое давление"],
+      "links": { "latestInterview": "https://example.com/interview/djokovic" }
+    },
+    {
+      "id": "alcaraz",
+      "name": "Carlos Alcaraz",
+      "avatar": "avatar_alcaraz",
+      "ranking": { "current": 2, "seasonDelta": 0, "trend": "stable" },
+      "playStyleId": "all_court",
+      "temperament": ["творчество", "разнообразие", "тактическая агрессия"],
+      "links": { "latestInterview": "https://example.com/interview/alcaraz" }
+    },
+    {
+      "id": "sinner",
+      "name": "Jannik Sinner",
+      "avatar": "avatar_sinner",
+      "ranking": { "current": 3, "seasonDelta": 1, "trend": "up" },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": ["стабильность", "тактическая агрессия", "быстрая реакция"],
+      "links": { "latestInterview": "https://example.com/interview/sinner" }
+    },
+    {
+      "id": "medvedev",
+      "name": "Daniil Medvedev",
+      "avatar": "avatar_medvedev",
+      "ranking": { "current": 4, "seasonDelta": -1, "trend": "down" },
+      "playStyleId": "counterpuncher",
+      "temperament": ["терпение", "хороший возврат", "психологическое давление"],
+      "links": { "latestInterview": "https://example.com/interview/medvedev" }
+    },
+    {
+      "id": "zverev",
+      "name": "Alexander Zverev",
+      "avatar": "avatar_zverev",
+      "ranking": { "current": 5, "seasonDelta": 2, "trend": "up" },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": ["много эйсов", "зависимость от подачи", "тактическая агрессия"],
+      "links": { "latestInterview": "https://example.com/interview/zverev" }
+    },
+    {
+      "id": "rublev",
+      "name": "Andrey Rublev",
+      "avatar": "avatar_rublev",
+      "ranking": { "current": 6, "seasonDelta": 0, "trend": "stable" },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": ["тактическая агрессия", "высокая выносливость", "быстрая реакция"],
+      "links": { "latestInterview": "https://example.com/interview/rublev" }
+    },
+    {
+      "id": "tsitsipas",
+      "name": "Stefanos Tsitsipas",
+      "avatar": "avatar_tsitsipas",
+      "ranking": { "current": 7, "seasonDelta": -1, "trend": "down" },
+      "playStyleId": "all_court",
+      "temperament": ["творчество", "разнообразие", "сильный воллей"],
+      "links": { "latestInterview": "https://example.com/interview/tsitsipas" }
+    },
+    {
+      "id": "rune",
+      "name": "Holger Rune",
+      "avatar": "avatar_rune",
+      "ranking": { "current": 8, "seasonDelta": 1, "trend": "up" },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": ["тактическая агрессия", "быстрая реакция", "психологическое давление"],
+      "links": { "latestInterview": "https://example.com/interview/rune" }
+    },
+    {
+      "id": "khachanov",
+      "name": "Karen Khachanov",
+      "avatar": "avatar_khachanov",
+      "ranking": { "current": 9, "seasonDelta": -2, "trend": "down" },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": ["высокая выносливость", "тактическая агрессия", "стабильность"],
+      "links": { "latestInterview": "https://example.com/interview/khachanov" }
+    },
+    {
+      "id": "bublik",
+      "name": "Alexander Bublik",
+      "avatar": "avatar_bublik",
+      "ranking": { "current": 10, "seasonDelta": 1, "trend": "up" },
+      "playStyleId": "servebot",
+      "temperament": ["много эйсов", "творчество", "разнообразие"],
+      "links": { "latestInterview": "https://example.com/interview/bublik" }
+    }
+  ],
+
   "matches": [
     {
+      "id": "bublik_djokovic_2026",
       "playerId": "bublik",
       "opponentId": "djokovic",
       "tournament": "Australian Open 2026",
-      "stage": "1R",
+      "stage": "1/16",
       "startAt": "2026-02-26T21:30:00+01:00",
-      "surface": "hard"
+      "surface": "hard",
+      "status": "upcoming",
+      "defendingPoints": false,
+      "headToHeadBeforeMatch": { "wins": 1, "losses": 3 }
     },
     {
-      "playerId": "djokovic",
-      "opponentId": "rublev",
+      "id": "sinner_alcaraz_2026",
+      "playerId": "sinner",
+      "opponentId": "alcaraz",
       "tournament": "Australian Open 2026",
-      "stage": "1R",
-      "startAt": "2026-02-17T21:30:00+01:00",
-      "surface": "hard"
+      "stage": "1/8",
+      "startAt": "2026-02-27T19:00:00+01:00",
+      "surface": "hard",
+      "status": "upcoming",
+      "defendingPoints": true,
+      "headToHeadBeforeMatch": { "wins": 4, "losses": 4 }
+    }
+  ],
+
+  "playerCards": [
+    {
+      "playerId": "bublik",
+      "nextMatchId": "bublik_djokovic_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "sinner",
+      "nextMatchId": "sinner_alcaraz_2026",
+      "lastMatchIds": []
     }
   ]
 }
