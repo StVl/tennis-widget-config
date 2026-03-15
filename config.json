@@ -1,7 +1,6 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-02-17T19:30:00Z",
-
   "playStyles": [
     {
       "id": "aggressive_baseliner",
@@ -49,120 +48,218 @@
       ]
     }
   ],
-
   "players": [
     {
       "id": "djokovic",
       "name": "Novak Djokovic",
       "avatar": "avatar_djokovic",
-      "ranking": { "current": 1, "seasonDelta": 1, "trend": "up" },
+      "ranking": {
+        "current": 1,
+        "seasonDelta": 1,
+        "trend": "up"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["терпение", "отличная защита", "психологическое давление"],
-      "links": { "latestInterview": "https://example.com/interview/djokovic" },
+      "temperament": [
+        "терпение",
+        "отличная защита",
+        "психологическое давление"
+      ],
+      "links": {
+        "latestInterview": "https://example.com/interview/djokovic"
+      },
       "ytdPoints": 1400,
-      "seasonPoints": 1400
+      "seasonPoints": -110
     },
     {
       "id": "alcaraz",
       "name": "Carlos Alcaraz",
       "avatar": "avatar_alcaraz",
-      "ranking": { "current": 2, "seasonDelta": 0, "trend": "stable" },
+      "ranking": {
+        "current": 2,
+        "seasonDelta": 0,
+        "trend": "stable"
+      },
       "playStyleId": "all_court",
-      "temperament": ["творчество", "разнообразие", "тактическая агрессия"],
-      "links": { "latestInterview": "https://example.com/interview/alcaraz" },
+      "temperament": [
+        "творчество",
+        "разнообразие",
+        "тактическая агрессия"
+      ],
+      "links": {
+        "latestInterview": "https://example.com/interview/alcaraz"
+      },
       "ytdPoints": 2900,
-      "seasonPoints": 2900
+      "seasonPoints": 1490
     },
     {
       "id": "sinner",
       "name": "Jannik Sinner",
       "avatar": "avatar_sinner",
-      "ranking": { "current": 3, "seasonDelta": 1, "trend": "up" },
+      "ranking": {
+        "current": 3,
+        "seasonDelta": 1,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["стабильность", "тактическая агрессия", "быстрая реакция"],
-      "links": { "latestInterview": "https://example.com/interview/sinner" },
+      "temperament": [
+        "стабильность",
+        "тактическая агрессия",
+        "быстрая реакция"
+      ],
+      "links": {
+        "latestInterview": "https://example.com/interview/sinner"
+      },
       "ytdPoints": 1550,
-      "seasonPoints": 1550
+      "seasonPoints": -450
     },
     {
       "id": "medvedev",
       "name": "Daniil Medvedev",
       "avatar": "avatar_medvedev",
-      "ranking": { "current": 4, "seasonDelta": -1, "trend": "down" },
+      "ranking": {
+        "current": 4,
+        "seasonDelta": -1,
+        "trend": "down"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["терпение", "хороший возврат", "психологическое давление"],
-      "links": { "latestInterview": "https://example.com/interview/medvedev" },
+      "temperament": [
+        "терпение",
+        "хороший возврат",
+        "психологическое давление"
+      ],
+      "links": {
+        "latestInterview": "https://example.com/interview/medvedev"
+      },
       "ytdPoints": 1650,
-      "seasonPoints": 1650
+      "seasonPoints": 840
     },
     {
       "id": "zverev",
       "name": "Alexander Zverev",
       "avatar": "avatar_zverev",
-      "ranking": { "current": 5, "seasonDelta": 2, "trend": "up" },
+      "ranking": {
+        "current": 5,
+        "seasonDelta": 2,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["много эйсов", "зависимость от подачи", "тактическая агрессия"],
-      "links": { "latestInterview": "https://example.com/interview/zverev" },
+      "temperament": [
+        "много эйсов",
+        "зависимость от подачи",
+        "тактическая агрессия"
+      ],
+      "links": {
+        "latestInterview": "https://example.com/interview/zverev"
+      },
       "ytdPoints": 1290,
-      "seasonPoints": 1290
+      "seasonPoints": -375
     },
     {
       "id": "rublev",
       "name": "Andrey Rublev",
       "avatar": "avatar_rublev",
-      "ranking": { "current": 6, "seasonDelta": 0, "trend": "stable" },
+      "ranking": {
+        "current": 6,
+        "seasonDelta": 0,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "высокая выносливость", "быстрая реакция"],
-      "links": { "latestInterview": "https://example.com/interview/rublev" },
+      "temperament": [
+        "тактическая агрессия",
+        "высокая выносливость",
+        "быстрая реакция"
+      ],
+      "links": {
+        "latestInterview": "https://example.com/interview/rublev"
+      },
       "ytdPoints": 610,
-      "seasonPoints": 610
+      "seasonPoints": -120
     },
     {
       "id": "tsitsipas",
       "name": "Stefanos Tsitsipas",
       "avatar": "avatar_tsitsipas",
-      "ranking": { "current": 7, "seasonDelta": -1, "trend": "down" },
+      "ranking": {
+        "current": 7,
+        "seasonDelta": -1,
+        "trend": "down"
+      },
       "playStyleId": "all_court",
-      "temperament": ["творчество", "разнообразие", "сильный воллей"],
-      "links": { "latestInterview": "https://example.com/interview/tsitsipas" },
+      "temperament": [
+        "творчество",
+        "разнообразие",
+        "сильный воллей"
+      ],
+      "links": {
+        "latestInterview": "https://example.com/interview/tsitsipas"
+      },
       "ytdPoints": 335,
-      "seasonPoints": 335
+      "seasonPoints": -470
     },
     {
       "id": "rune",
       "name": "Holger Rune",
       "avatar": "avatar_rune",
-      "ranking": { "current": 8, "seasonDelta": 1, "trend": "up" },
+      "ranking": {
+        "current": 8,
+        "seasonDelta": 1,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "быстрая реакция", "психологическое давление"],
-      "links": { "latestInterview": "https://example.com/interview/rune" },
+      "temperament": [
+        "тактическая агрессия",
+        "быстрая реакция",
+        "психологическое давление"
+      ],
+      "links": {
+        "latestInterview": "https://example.com/interview/rune"
+      },
       "ytdPoints": 0,
-      "seasonPoints": 0
+      "seasonPoints": -960
     },
     {
       "id": "khachanov",
       "name": "Karen Khachanov",
       "avatar": "avatar_khachanov",
-      "ranking": { "current": 9, "seasonDelta": -2, "trend": "down" },
+      "ranking": {
+        "current": 9,
+        "seasonDelta": -2,
+        "trend": "down"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["высокая выносливость", "тактическая агрессия", "стабильность"],
-      "links": { "latestInterview": "https://example.com/interview/khachanov" },
+      "temperament": [
+        "высокая выносливость",
+        "тактическая агрессия",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://example.com/interview/khachanov"
+      },
       "ytdPoints": 310,
-      "seasonPoints": 310
+      "seasonPoints": 60
     },
     {
       "id": "bublik",
       "name": "Alexander Bublik",
       "avatar": "avatar_bublik",
-      "ranking": { "current": 10, "seasonDelta": 1, "trend": "up" },
+      "ranking": {
+        "current": 10,
+        "seasonDelta": 1,
+        "trend": "up"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "творчество", "разнообразие"],
-      "links": { "latestInterview": "https://example.com/interview/bublik" },
+      "temperament": [
+        "много эйсов",
+        "творчество",
+        "разнообразие"
+      ],
+      "links": {
+        "latestInterview": "https://example.com/interview/bublik"
+      },
       "ytdPoints": 750,
-      "seasonPoints": 750
+      "seasonPoints": 535
     }
   ],
-
   "matches": [
     {
       "id": "bublik_djokovic_2026",
@@ -174,7 +271,10 @@
       "surface": "hard",
       "status": "upcoming",
       "defendingPoints": 18,
-      "headToHeadBeforeMatch": { "wins": 1, "losses": 3 }
+      "headToHeadBeforeMatch": {
+        "wins": 1,
+        "losses": 3
+      }
     },
     {
       "id": "sinner_alcaraz_2026",
@@ -186,10 +286,12 @@
       "surface": "hard",
       "status": "upcoming",
       "defendingPoints": 0,
-      "headToHeadBeforeMatch": { "wins": 4, "losses": 4 }
+      "headToHeadBeforeMatch": {
+        "wins": 4,
+        "losses": 4
+      }
     }
   ],
-
   "playerCards": [
     {
       "playerId": "bublik",
