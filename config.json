@@ -157,6 +157,16 @@
       "headToHeadBeforeMatch": { "wins": 1, "losses": 3 }
     },
     {
+      "id": "medvedev_sinner_2026",
+      "playerId": "medvedev",
+      "opponentId": "sinner",
+      "tournament": "Indian Wells 2026",
+      "stage": "final",
+      "startAt": "2026-03-15T22:30:00+01:00",
+      "surface": "hard",
+      "status": "upcoming"
+    },
+    {
       "id": "sinner_alcaraz_2026",
       "playerId": "sinner",
       "opponentId": "alcaraz",
