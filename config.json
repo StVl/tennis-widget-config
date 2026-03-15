@@ -58,7 +58,9 @@
       "ranking": { "current": 1, "seasonDelta": 1, "trend": "up" },
       "playStyleId": "counterpuncher",
       "temperament": ["терпение", "отличная защита", "психологическое давление"],
-      "links": { "latestInterview": "https://example.com/interview/djokovic" }
+      "links": { "latestInterview": "https://example.com/interview/djokovic" },
+      "ytdPoints": 1400,
+      "seasonPoints": 1400
     },
     {
       "id": "alcaraz",
@@ -67,7 +69,9 @@
       "ranking": { "current": 2, "seasonDelta": 0, "trend": "stable" },
       "playStyleId": "all_court",
       "temperament": ["творчество", "разнообразие", "тактическая агрессия"],
-      "links": { "latestInterview": "https://example.com/interview/alcaraz" }
+      "links": { "latestInterview": "https://example.com/interview/alcaraz" },
+      "ytdPoints": 2900,
+      "seasonPoints": 2900
     },
     {
       "id": "sinner",
@@ -76,7 +80,9 @@
       "ranking": { "current": 3, "seasonDelta": 1, "trend": "up" },
       "playStyleId": "aggressive_baseliner",
       "temperament": ["стабильность", "тактическая агрессия", "быстрая реакция"],
-      "links": { "latestInterview": "https://example.com/interview/sinner" }
+      "links": { "latestInterview": "https://example.com/interview/sinner" },
+      "ytdPoints": 1550,
+      "seasonPoints": 1550
     },
     {
       "id": "medvedev",
@@ -85,7 +91,9 @@
       "ranking": { "current": 4, "seasonDelta": -1, "trend": "down" },
       "playStyleId": "counterpuncher",
       "temperament": ["терпение", "хороший возврат", "психологическое давление"],
-      "links": { "latestInterview": "https://example.com/interview/medvedev" }
+      "links": { "latestInterview": "https://example.com/interview/medvedev" },
+      "ytdPoints": 1650,
+      "seasonPoints": 1650
     },
     {
       "id": "zverev",
@@ -94,7 +102,9 @@
       "ranking": { "current": 5, "seasonDelta": 2, "trend": "up" },
       "playStyleId": "aggressive_baseliner",
       "temperament": ["много эйсов", "зависимость от подачи", "тактическая агрессия"],
-      "links": { "latestInterview": "https://example.com/interview/zverev" }
+      "links": { "latestInterview": "https://example.com/interview/zverev" },
+      "ytdPoints": 1290,
+      "seasonPoints": 1290
     },
     {
       "id": "rublev",
@@ -103,7 +113,9 @@
       "ranking": { "current": 6, "seasonDelta": 0, "trend": "stable" },
       "playStyleId": "aggressive_baseliner",
       "temperament": ["тактическая агрессия", "высокая выносливость", "быстрая реакция"],
-      "links": { "latestInterview": "https://example.com/interview/rublev" }
+      "links": { "latestInterview": "https://example.com/interview/rublev" },
+      "ytdPoints": 610,
+      "seasonPoints": 610
     },
     {
       "id": "tsitsipas",
@@ -112,7 +124,9 @@
       "ranking": { "current": 7, "seasonDelta": -1, "trend": "down" },
       "playStyleId": "all_court",
       "temperament": ["творчество", "разнообразие", "сильный воллей"],
-      "links": { "latestInterview": "https://example.com/interview/tsitsipas" }
+      "links": { "latestInterview": "https://example.com/interview/tsitsipas" },
+      "ytdPoints": 335,
+      "seasonPoints": 335
     },
     {
       "id": "rune",
@@ -121,7 +135,9 @@
       "ranking": { "current": 8, "seasonDelta": 1, "trend": "up" },
       "playStyleId": "aggressive_baseliner",
       "temperament": ["тактическая агрессия", "быстрая реакция", "психологическое давление"],
-      "links": { "latestInterview": "https://example.com/interview/rune" }
+      "links": { "latestInterview": "https://example.com/interview/rune" },
+      "ytdPoints": 0,
+      "seasonPoints": 0
     },
     {
       "id": "khachanov",
@@ -130,7 +146,9 @@
       "ranking": { "current": 9, "seasonDelta": -2, "trend": "down" },
       "playStyleId": "aggressive_baseliner",
       "temperament": ["высокая выносливость", "тактическая агрессия", "стабильность"],
-      "links": { "latestInterview": "https://example.com/interview/khachanov" }
+      "links": { "latestInterview": "https://example.com/interview/khachanov" },
+      "ytdPoints": 310,
+      "seasonPoints": 310
     },
     {
       "id": "bublik",
@@ -139,7 +157,9 @@
       "ranking": { "current": 10, "seasonDelta": 1, "trend": "up" },
       "playStyleId": "servebot",
       "temperament": ["много эйсов", "творчество", "разнообразие"],
-      "links": { "latestInterview": "https://example.com/interview/bublik" }
+      "links": { "latestInterview": "https://example.com/interview/bublik" },
+      "ytdPoints": 750,
+      "seasonPoints": 750
     }
   ],
 
@@ -155,16 +175,6 @@
       "status": "upcoming",
       "defendingPoints": 18,
       "headToHeadBeforeMatch": { "wins": 1, "losses": 3 }
-    },
-    {
-      "id": "medvedev_sinner_2026",
-      "playerId": "medvedev",
-      "opponentId": "sinner",
-      "tournament": "Indian Wells 2026",
-      "stage": "final",
-      "startAt": "2026-03-15T22:30:00+01:00",
-      "surface": "hard",
-      "status": "upcoming"
     },
     {
       "id": "sinner_alcaraz_2026",
