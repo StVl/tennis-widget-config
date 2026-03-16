@@ -303,5 +303,27 @@
       "nextMatchId": "sinner_alcaraz_2026",
       "lastMatchIds": []
     }
+  ],
+  "tournaments": [
+    {
+      "tournament": "monte_carlo",
+      "name": "Rolex Monte‑Carlo Masters",
+      "dates": {
+        "start": "2026-04-04",
+        "end": "2026-04-12"
+      },
+      "players": [
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "djokovic",
+        "medvedev",
+        "bublik",
+        "khachanov",
+        "rublev",
+        "tsitsipas"
+      ]
+    }
   ]
 }
+
