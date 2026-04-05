@@ -1214,6 +1214,30 @@
       "startAt": "2026-04-07T11:00:00+02:00",
       "surface": "clay",
       "status": "upcoming"
+    },
+    {
+      "id": "bublik_khachanov_barcelona_2026",
+      "playerId": "bublik",
+      "opponentId": "khachanov",
+      "tournament": "Barcelona Open Banc Sabadell 2026",
+      "stage": "R2",
+      "startAt": "2026-04-16T19:30:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "defendingPoints": 45,
+      "headToHeadBeforeMatch": { "wins": 3, "losses": 2 }
+    },
+    {
+      "id": "musetti_zverev_barcelona_2026",
+      "playerId": "musetti",
+      "opponentId": "zverev",
+      "tournament": "Barcelona Open Banc Sabadell 2026",
+      "stage": "QF",
+      "startAt": "2026-04-19T19:30:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "defendingPoints": 180,
+      "headToHeadBeforeMatch": { "wins": 1, "losses": 4 }
     }
   ],
   "playerCards": [
