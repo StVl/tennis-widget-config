@@ -1152,100 +1152,104 @@
   ],
   "matches": [
     {
-      "id": "alcaraz_zverev_mc_2026",
+      "id": "alcaraz_mc_r2_2026",
       "playerId": "alcaraz",
-      "opponentId": "zverev",
+      "opponentId": "TBD",
+      "opponentNote": "winner of Baez/Wawrinka",
       "tournament": "Monte-Carlo Masters 2026",
-      "stage": "1/4",
-      "startAt": "2026-04-10T14:00:00+02:00",
+      "stage": "R2",
+      "startAt": "2026-04-08T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "defendingPoints": 1000,
-      "headToHeadBeforeMatch": { "wins": 5, "losses": 3 }
+      "status": "upcoming"
     },
     {
-      "id": "sinner_musetti_mc_2026",
+      "id": "sinner_mc_r2_2026",
       "playerId": "sinner",
-      "opponentId": "musetti",
+      "opponentId": "TBD",
+      "opponentNote": "winner of Humbert/Kouame",
       "tournament": "Monte-Carlo Masters 2026",
-      "stage": "1/4",
-      "startAt": "2026-04-10T12:00:00+02:00",
+      "stage": "R2",
+      "startAt": "2026-04-08T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "defendingPoints": 600,
-      "headToHeadBeforeMatch": { "wins": 5, "losses": 1 }
+      "status": "upcoming"
     },
     {
-      "id": "djokovic_bublik_mc_2026",
-      "playerId": "djokovic",
-      "opponentId": "bublik",
+      "id": "zverev_mc_r2_2026",
+      "playerId": "zverev",
+      "opponentId": "TBD",
+      "opponentNote": "winner of Mpetshi Perricard/Q",
       "tournament": "Monte-Carlo Masters 2026",
-      "stage": "1/8",
-      "startAt": "2026-04-08T12:00:00+02:00",
+      "stage": "R2",
+      "startAt": "2026-04-07T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "defendingPoints": 180,
-      "headToHeadBeforeMatch": { "wins": 4, "losses": 1 }
+      "status": "upcoming"
     },
     {
-      "id": "alcaraz_medvedev_madrid_2026",
-      "playerId": "alcaraz",
-      "opponentId": "medvedev",
-      "tournament": "Mutua Madrid Open 2026",
-      "stage": "1/4",
-      "startAt": "2026-04-29T19:00:00+02:00",
+      "id": "musetti_mc_r2_2026",
+      "playerId": "musetti",
+      "opponentId": "TBD",
+      "opponentNote": "winner of Vacherot/Majchrzak",
+      "tournament": "Monte-Carlo Masters 2026",
+      "stage": "R2",
+      "startAt": "2026-04-07T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "defendingPoints": 600,
-      "headToHeadBeforeMatch": { "wins": 8, "losses": 6 }
+      "status": "upcoming"
     },
     {
-      "id": "sinner_zverev_roland_garros_2026",
-      "playerId": "sinner",
-      "opponentId": "zverev",
-      "tournament": "Roland Garros 2026",
-      "stage": "1/2",
-      "startAt": "2026-06-04T14:00:00+02:00",
+      "id": "bublik_mc_r2_2026",
+      "playerId": "bublik",
+      "opponentId": "TBD",
+      "tournament": "Monte-Carlo Masters 2026",
+      "stage": "R2",
+      "startAt": "2026-04-07T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "defendingPoints": 2000,
-      "headToHeadBeforeMatch": { "wins": 7, "losses": 4 }
+      "status": "upcoming"
+    },
+    {
+      "id": "medvedev_mc_r2_2026",
+      "playerId": "medvedev",
+      "opponentId": "TBD",
+      "tournament": "Monte-Carlo Masters 2026",
+      "stage": "R2",
+      "startAt": "2026-04-07T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
     }
   ],
   "playerCards": [
     {
       "playerId": "alcaraz",
-      "nextMatchId": "alcaraz_zverev_mc_2026",
+      "nextMatchId": "alcaraz_mc_r2_2026",
       "lastMatchIds": []
     },
     {
       "playerId": "sinner",
-      "nextMatchId": "sinner_musetti_mc_2026",
+      "nextMatchId": "sinner_mc_r2_2026",
       "lastMatchIds": []
     },
     {
       "playerId": "djokovic",
-      "nextMatchId": "djokovic_bublik_mc_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "zverev",
-      "nextMatchId": "alcaraz_zverev_mc_2026",
+      "nextMatchId": "zverev_mc_r2_2026",
       "lastMatchIds": []
     },
     {
       "playerId": "musetti",
-      "nextMatchId": "sinner_musetti_mc_2026",
+      "nextMatchId": "musetti_mc_r2_2026",
       "lastMatchIds": []
     },
     {
       "playerId": "bublik",
-      "nextMatchId": "djokovic_bublik_mc_2026",
+      "nextMatchId": "bublik_mc_r2_2026",
       "lastMatchIds": []
     },
     {
       "playerId": "medvedev",
-      "nextMatchId": "alcaraz_medvedev_madrid_2026",
+      "nextMatchId": "medvedev_mc_r2_2026",
       "lastMatchIds": []
     }
   ],
