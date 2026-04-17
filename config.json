@@ -52,7 +52,7 @@
     {
       "id": "alcaraz",
       "name": "Carlos Alcaraz",
-      "avatar": "avatar_alcaraz",
+      "avatar": "https://github.com/StVl/tennis-widget-config/blob/main/alcaraz_full_2024.png",
       "ranking": { "current": 1, "seasonDelta": 1, "trend": "up" },
       "playStyleId": "all_court",
       "temperament": ["творчество", "разнообразие", "взрывная скорость"],
@@ -63,7 +63,7 @@
     {
       "id": "sinner",
       "name": "Jannik Sinner",
-      "avatar": "avatar_sinner",
+      "avatar": "https://github.com/StVl/tennis-widget-config/blob/main/sinner_full_2026.png",
       "ranking": { "current": 2, "seasonDelta": -1, "trend": "down" },
       "playStyleId": "aggressive_baseliner",
       "temperament": ["стабильность", "тактическая агрессия", "раннее взятие мяча"],
@@ -151,7 +151,7 @@
     {
       "id": "medvedev",
       "name": "Daniil Medvedev",
-      "avatar": "avatar_medvedev",
+      "avatar": "https://github.com/StVl/tennis-widget-config/blob/main/medvedev_full_2026.png",
       "ranking": { "current": 10, "seasonDelta": -5, "trend": "down" },
       "playStyleId": "counterpuncher",
       "temperament": ["терпение", "хороший возврат", "психологическое давление"],
