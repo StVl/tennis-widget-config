@@ -101,7 +101,7 @@
       "id": "musetti",
       "name": "Lorenzo Musetti",
       "avatar": "avatar_musetti",
-      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/lorenzo-musetti_bpm.jpg",
+      "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/musseti_2.jpg",
       "ranking": { "current": 9, "seasonDelta": 7, "trend": "down" },
       "playStyleId": "all_court",
       "temperament": ["творчество", "сильный воллей", "тактическая гибкость"],
