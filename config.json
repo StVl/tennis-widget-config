@@ -315,6 +315,7 @@
       "id": "vacherot",
       "name": "Valentin Vacherot",
       "avatar": "avatar_vacherot",
+      "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/vacherot.jpeg",
       "ranking": { "current": 17, "seasonDelta": 63, "trend": "up" },
       "playStyleId": "counterpuncher",
       "temperament": ["терпение", "длинные розыгрыши", "хороший возврат"],
