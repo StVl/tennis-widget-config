@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-17T12:00:00Z",
+  "updatedAt": "2026-05-09T18:00:00Z",
   "playStyles": [
     {
       "id": "aggressive_baseliner",
@@ -50,277 +50,507 @@
   ],
   "players": [
     {
-      "id": "alcaraz",
-      "name": "Carlos Alcaraz",
-      "avatar": "avatar_alcaraz",
-      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/alcaraz_full_2024.png",
-      "ranking": { "current": 2, "seasonDelta": 0, "trend": "down" },
-      "playStyleId": "all_court",
-      "temperament": ["творчество", "разнообразие", "взрывная скорость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/overview" },
-      "ytdPoints": 3500,
-      "seasonPoints": 2000
-    },
-    {
       "id": "sinner",
       "name": "Jannik Sinner",
       "avatar": "avatar_sinner",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/sinner_full_2026.png",
-      "ranking": { "current": 1, "seasonDelta": 0, "trend": "up" },
+      "ranking": {
+        "current": 1,
+        "seasonDelta": 0,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["стабильность", "тактическая агрессия", "раннее взятие мяча"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/jannik-sinner/s0ag/overview" },
-      "ytdPoints": 3000,
-      "seasonPoints": 1200
+      "temperament": [
+        "стабильность",
+        "тактическая агрессия",
+        "раннее взятие мяча"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/jannik-sinner/s0ag/overview"
+      },
+      "ytdPoints": 4000,
+      "seasonPoints": 2200
+    },
+    {
+      "id": "alcaraz",
+      "name": "Carlos Alcaraz",
+      "avatar": "avatar_alcaraz",
+      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/alcaraz_full_2024.png",
+      "ranking": {
+        "current": 2,
+        "seasonDelta": 0,
+        "trend": "down"
+      },
+      "playStyleId": "all_court",
+      "temperament": [
+        "творчество",
+        "разнообразие",
+        "взрывная скорость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/overview"
+      },
+      "ytdPoints": 3500,
+      "seasonPoints": 2000
     },
     {
       "id": "zverev",
       "name": "Alexander Zverev",
       "avatar": "avatar_zverev",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/zverev.jpeg",
-      "ranking": { "current": 3, "seasonDelta": 1, "trend": "up" },
+      "ranking": {
+        "current": 3,
+        "seasonDelta": 1,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["мощная подача", "много эйсов", "плотный удар"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/alexander-zverev/z355/overview" },
-      "ytdPoints": 1800,
-      "seasonPoints": 600
+      "temperament": [
+        "мощная подача",
+        "много эйсов",
+        "плотный удар"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/alexander-zverev/z355/overview"
+      },
+      "ytdPoints": 2400,
+      "seasonPoints": 1200
     },
     {
       "id": "djokovic",
       "name": "Novak Djokovic",
       "avatar": "avatar_djokovic",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/djoko.jpeg",
-      "ranking": { "current": 4, "seasonDelta": -3, "trend": "down" },
+      "ranking": {
+        "current": 4,
+        "seasonDelta": -3,
+        "trend": "down"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["терпение", "отличная защита", "психологическое давление"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/novak-djokovic/d643/overview" },
-      "ytdPoints": 1200,
-      "seasonPoints": -800
-    },
-    {
-      "id": "musetti",
-      "name": "Lorenzo Musetti",
-      "avatar": "avatar_musetti",
-      "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/musseti_2.jpg",
-      "ranking": { "current": 9, "seasonDelta": 7, "trend": "down" },
-      "playStyleId": "all_court",
-      "temperament": ["творчество", "сильный воллей", "тактическая гибкость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/lorenzo-musetti/mc10/overview" },
-      "ytdPoints": 1600,
-      "seasonPoints": 1500
-    },
-    {
-      "id": "de_minaur",
-      "name": "Alex De Minaur",
-      "avatar": "avatar_de_minaur",
-      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/De-Minaur-2.jpg",
-      "ranking": { "current": 7, "seasonDelta": 1, "trend": "down" },
-      "playStyleId": "counterpuncher",
-      "temperament": ["взрывная скорость", "быстрая реакция", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/alex-de-minaur/dm17/overview" },
-      "ytdPoints": 1400,
-      "seasonPoints": 400
+      "temperament": [
+        "терпение",
+        "отличная защита",
+        "психологическое давление"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/novak-djokovic/d643/overview"
+      },
+      "ytdPoints": 1245,
+      "seasonPoints": -755
     },
     {
       "id": "auger_aliassime",
       "name": "Felix Auger-Aliassime",
       "avatar": "avatar_auger_aliassime",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/alliasim.webp",
-      "ranking": { "current": 5, "seasonDelta": 6, "trend": "up" },
+      "ranking": {
+        "current": 5,
+        "seasonDelta": 6,
+        "trend": "stable"
+      },
       "playStyleId": "servebot",
-      "temperament": ["мощная подача", "много эйсов", "игра у сетки"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/felix-auger-aliassime/am57/overview" },
+      "temperament": [
+        "мощная подача",
+        "много эйсов",
+        "игра у сетки"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/felix-auger-aliassime/am57/overview"
+      },
       "ytdPoints": 1500,
       "seasonPoints": 700
-    },
-    {
-      "id": "fritz",
-      "name": "Taylor Fritz",
-      "avatar": "avatar_fritz",
-      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/fritz.jpg?raw=true",
-      "ranking": { "current": 8, "seasonDelta": -2, "trend": "down" },
-      "playStyleId": "servebot",
-      "temperament": ["мощная подача", "стабильность", "тактическая агрессия"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/taylor-fritz/f324/overview" },
-      "ytdPoints": 1100,
-      "seasonPoints": -100
     },
     {
       "id": "shelton",
       "name": "Ben Shelton",
       "avatar": "avatar_shelton",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/ben-shelton-oderzhal-pobedu-v-tryoh-setah-na-starte-uimbldona-2025_1751395944512448887.jpg",
-      "ranking": { "current": 6, "seasonDelta": 9, "trend": "up" },
+      "ranking": {
+        "current": 6,
+        "seasonDelta": 9,
+        "trend": "up"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "взрывная скорость", "агрессивный возврат"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/ben-shelton/s0p2/overview" },
-      "ytdPoints": 1400,
-      "seasonPoints": 900
+      "temperament": [
+        "много эйсов",
+        "взрывная скорость",
+        "агрессивный возврат"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/ben-shelton/s0p2/overview"
+      },
+      "ytdPoints": 1900,
+      "seasonPoints": 1400
+    },
+    {
+      "id": "fritz",
+      "name": "Taylor Fritz",
+      "avatar": "avatar_fritz",
+      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/fritz.jpg?raw=true",
+      "ranking": {
+        "current": 7,
+        "seasonDelta": -1,
+        "trend": "up"
+      },
+      "playStyleId": "servebot",
+      "temperament": [
+        "мощная подача",
+        "стабильность",
+        "тактическая агрессия"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/taylor-fritz/f324/overview"
+      },
+      "ytdPoints": 1100,
+      "seasonPoints": -100
+    },
+    {
+      "id": "de_minaur",
+      "name": "Alex De Minaur",
+      "avatar": "avatar_de_minaur",
+      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/De-Minaur-2.jpg",
+      "ranking": {
+        "current": 8,
+        "seasonDelta": 0,
+        "trend": "down"
+      },
+      "playStyleId": "counterpuncher",
+      "temperament": [
+        "взрывная скорость",
+        "быстрая реакция",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/alex-de-minaur/dm17/overview"
+      },
+      "ytdPoints": 1445,
+      "seasonPoints": 445
     },
     {
       "id": "medvedev",
       "name": "Daniil Medvedev",
       "avatar": "avatar_medvedev",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/medvedev_full_2026.png",
-      "ranking": { "current": 10, "seasonDelta": -5, "trend": "down" },
+      "ranking": {
+        "current": 9,
+        "seasonDelta": -4,
+        "trend": "up"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["терпение", "хороший возврат", "психологическое давление"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/daniil-medvedev/mm58/overview" },
+      "temperament": [
+        "терпение",
+        "хороший возврат",
+        "психологическое давление"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/daniil-medvedev/mm58/overview"
+      },
       "ytdPoints": 900,
       "seasonPoints": -500
     },
     {
-      "id": "bublik",
-      "name": "Alexander Bublik",
-      "avatar": "avatar_bublik",
-      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/bublik.webp",
-      "ranking": { "current": 11, "seasonDelta": 3, "trend": "up" },
-      "playStyleId": "servebot",
-      "temperament": ["много эйсов", "нестандартная игра", "творчество"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/alexander-bublik/b895/overview" },
-      "ytdPoints": 1100,
-      "seasonPoints": 400
-    },
-    {
-      "id": "ruud",
-      "name": "Casper Ruud",
-      "avatar": "avatar_ruud",
-      "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/casper.jpg",
-      "ranking": { "current": 12, "seasonDelta": 0, "trend": "stable" },
-      "playStyleId": "aggressive_baseliner",
-      "temperament": ["мощный форхенд", "стабильность", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/casper-ruud/re44/overview" },
-      "ytdPoints": 700,
-      "seasonPoints": 50
+      "id": "musetti",
+      "name": "Lorenzo Musetti",
+      "avatar": "avatar_musetti",
+      "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/musseti_2.jpg",
+      "ranking": {
+        "current": 10,
+        "seasonDelta": 6,
+        "trend": "down"
+      },
+      "playStyleId": "all_court",
+      "temperament": [
+        "творчество",
+        "сильный воллей",
+        "тактическая гибкость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/lorenzo-musetti/mc10/overview"
+      },
+      "ytdPoints": 1690,
+      "seasonPoints": 1590
     },
     {
       "id": "cobolli",
       "name": "Flavio Cobolli",
       "avatar": "avatar_cobolli",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/cobolli.webp?raw=true",
-      "ranking": { "current": 16, "seasonDelta": 24, "trend": "down" },
+      "ranking": {
+        "current": 11,
+        "seasonDelta": 29,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "быстрая реакция", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/flavio-cobolli/cf40/overview" },
-      "ytdPoints": 1300,
-      "seasonPoints": 1200
+      "temperament": [
+        "тактическая агрессия",
+        "быстрая реакция",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/flavio-cobolli/cf40/overview"
+      },
+      "ytdPoints": 1630,
+      "seasonPoints": 1530
     },
     {
       "id": "lehecka",
       "name": "Jiri Lehecka",
       "avatar": "avatar_lehecka",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/lehechka.jpg?raw=true",
-      "ranking": { "current": 13, "seasonDelta": 7, "trend": "up" },
+      "ranking": {
+        "current": 12,
+        "seasonDelta": 8,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["мощная подача", "тактическая агрессия", "мощный форхенд"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/jiri-lehecka/lm50/overview" },
-      "ytdPoints": 900,
-      "seasonPoints": 500
+      "temperament": [
+        "мощная подача",
+        "тактическая агрессия",
+        "мощный форхенд"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/jiri-lehecka/lm50/overview"
+      },
+      "ytdPoints": 990,
+      "seasonPoints": 590
     },
     {
       "id": "khachanov",
       "name": "Karen Khachanov",
       "avatar": "avatar_khachanov",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/khachanov.jpg?raw=true",
-      "ranking": { "current": 14, "seasonDelta": -4, "trend": "up" },
+      "ranking": {
+        "current": 13,
+        "seasonDelta": -3,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["мощная подача", "высокая выносливость", "плотный удар"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/karen-khachanov/ke17/overview" },
-      "ytdPoints": 600,
-      "seasonPoints": -200
+      "temperament": [
+        "мощная подача",
+        "высокая выносливость",
+        "плотный удар"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/karen-khachanov/ke17/overview"
+      },
+      "ytdPoints": 690,
+      "seasonPoints": -110
     },
     {
       "id": "rublev",
       "name": "Andrey Rublev",
       "avatar": "avatar_rublev",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/Andrey_Rublev_(2023_US_Open)_12.jpg",
-      "ranking": { "current": 15, "seasonDelta": -9, "trend": "up" },
+      "ranking": {
+        "current": 14,
+        "seasonDelta": -8,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "высокая выносливость", "быстрая реакция"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/andrey-rublev/r975/overview" },
-      "ytdPoints": 500,
-      "seasonPoints": -600
+      "temperament": [
+        "тактическая агрессия",
+        "высокая выносливость",
+        "быстрая реакция"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/andrey-rublev/r975/overview"
+      },
+      "ytdPoints": 830,
+      "seasonPoints": -270
     },
     {
-      "id": "davidovich_fokina",
-      "name": "Alejandro Davidovich Fokina",
-      "avatar": "avatar_davidovich_fokina",
-      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/fokina.jpg?raw=true",
-      "ranking": { "current": 23, "seasonDelta": -1, "trend": "down" },
-      "playStyleId": "counterpuncher",
-      "temperament": ["терпение", "быстрое перемещение", "физическое давление"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/alejandro-davidovich-fokina/df24/overview" },
-      "ytdPoints": 800,
-      "seasonPoints": 400
+      "id": "fils",
+      "name": "Arthur Fils",
+      "avatar": "avatar_fils",
+      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/Arthur_Fils_-_2024_Olympics_(still)_(cropped).jpg?raw=true",
+      "ranking": {
+        "current": 15,
+        "seasonDelta": 15,
+        "trend": "up"
+      },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": [
+        "взрывная скорость",
+        "тактическая агрессия",
+        "раннее взятие мяча"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/arthur-fils/f0cr/overview"
+      },
+      "ytdPoints": 1460,
+      "seasonPoints": 1060
     },
     {
-      "id": "tiafoe",
-      "name": "Frances Tiafoe",
-      "avatar": "avatar_tiafoe",
-      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/frances-tiafoe-us-open.jpg?raw=true",
-      "ranking": { "current": 20, "seasonDelta": -2, "trend": "down" },
-      "playStyleId": "aggressive_baseliner",
-      "temperament": ["взрывная скорость", "тактическая агрессия", "игра в высоком темпе"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/frances-tiafoe/td14/overview" },
-      "ytdPoints": 700,
-      "seasonPoints": 100
-    },
-    {
-      "id": "darderi",
-      "name": "Luciano Darderi",
-      "avatar": "avatar_darderi",
-      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/Darderi_WMQ23_(53062101185).jpg?raw=true",
-      "ranking": { "current": 21, "seasonDelta": 14, "trend": "down" },
-      "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "стабильность", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/luciano-darderi/d0fq/overview" },
-      "ytdPoints": 900,
-      "seasonPoints": 800
-    },
-    {
-      "id": "f_cerundolo",
-      "name": "Francisco Cerundolo",
-      "avatar": "avatar_f_cerundolo",
-      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/cerundolo.jpg?raw=true",
-      "ranking": { "current": 19, "seasonDelta": 6, "trend": "up" },
-      "playStyleId": "aggressive_baseliner",
-      "temperament": ["плотный удар", "тактическая агрессия", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/francisco-cerundolo/cd56/overview" },
-      "ytdPoints": 700,
-      "seasonPoints": 350
+      "id": "bublik",
+      "name": "Alexander Bublik",
+      "avatar": "avatar_bublik",
+      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/bublik.webp",
+      "ranking": {
+        "current": 16,
+        "seasonDelta": -2,
+        "trend": "stable"
+      },
+      "playStyleId": "servebot",
+      "temperament": [
+        "много эйсов",
+        "нестандартная игра",
+        "творчество"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/alexander-bublik/b895/overview"
+      },
+      "ytdPoints": 1190,
+      "seasonPoints": 490
     },
     {
       "id": "paul",
       "name": "Tommy Paul",
       "avatar": "avatar_paul",
       "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/Tommy_Paul_28_A0607_2493c60b53.webp",
-      "ranking": { "current": 18, "seasonDelta": -3, "trend": "up" },
+      "ranking": {
+        "current": 17,
+        "seasonDelta": -2,
+        "trend": "up"
+      },
       "playStyleId": "all_court",
-      "temperament": ["тактическая гибкость", "хороший возврат", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/tommy-paul/pb44/overview" },
-      "ytdPoints": 600,
-      "seasonPoints": -200
+      "temperament": [
+        "тактическая гибкость",
+        "хороший возврат",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/tommy-paul/pb44/overview"
+      },
+      "ytdPoints": 690,
+      "seasonPoints": -110
+    },
+    {
+      "id": "f_cerundolo",
+      "name": "Francisco Cerundolo",
+      "avatar": "avatar_f_cerundolo",
+      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/cerundolo.jpg?raw=true",
+      "ranking": {
+        "current": 18,
+        "seasonDelta": 7,
+        "trend": "up"
+      },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": [
+        "плотный удар",
+        "тактическая агрессия",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/francisco-cerundolo/cd56/overview"
+      },
+      "ytdPoints": 790,
+      "seasonPoints": 440
+    },
+    {
+      "id": "darderi",
+      "name": "Luciano Darderi",
+      "avatar": "avatar_darderi",
+      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/Darderi_WMQ23_(53062101185).jpg?raw=true",
+      "ranking": {
+        "current": 19,
+        "seasonDelta": 16,
+        "trend": "stable"
+      },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": [
+        "тактическая агрессия",
+        "стабильность",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/luciano-darderi/d0fq/overview"
+      },
+      "ytdPoints": 990,
+      "seasonPoints": 890
     },
     {
       "id": "tien",
       "name": "Learner Tien",
       "avatar": "avatar_tien",
-      "ranking": { "current": 22, "seasonDelta": 48, "trend": "up" },
+      "ranking": {
+        "current": 20,
+        "seasonDelta": 50,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["мощная подача", "тактическая агрессия", "раннее взятие мяча"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/learner-tien/t0js/overview" },
-      "ytdPoints": 1100,
-      "seasonPoints": 1100
+      "temperament": [
+        "мощная подача",
+        "тактическая агрессия",
+        "раннее взятие мяча"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/learner-tien/t0js/overview"
+      },
+      "ytdPoints": 1190,
+      "seasonPoints": 1190
+    },
+    {
+      "id": "tiafoe",
+      "name": "Frances Tiafoe",
+      "avatar": "avatar_tiafoe",
+      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/frances-tiafoe-us-open.jpg?raw=true",
+      "ranking": {
+        "current": 21,
+        "seasonDelta": -3,
+        "trend": "stable"
+      },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": [
+        "взрывная скорость",
+        "тактическая агрессия",
+        "игра в высоком темпе"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/frances-tiafoe/td14/overview"
+      },
+      "ytdPoints": 700,
+      "seasonPoints": 100
+    },
+    {
+      "id": "ruud",
+      "name": "Casper Ruud",
+      "avatar": "avatar_ruud",
+      "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/casper.jpg",
+      "ranking": {
+        "current": 22,
+        "seasonDelta": -10,
+        "trend": "up"
+      },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": [
+        "мощный форхенд",
+        "стабильность",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/casper-ruud/re44/overview"
+      },
+      "ytdPoints": 790,
+      "seasonPoints": 140
     },
     {
       "id": "vacherot",
       "name": "Valentin Vacherot",
       "avatar": "avatar_vacherot",
       "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/vacherot.jpeg",
-      "ranking": { "current": 17, "seasonDelta": 63, "trend": "up" },
+      "ranking": {
+        "current": 23,
+        "seasonDelta": 57,
+        "trend": "down"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["терпение", "длинные розыгрыши", "хороший возврат"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/valentin-vacherot/ve40/overview" },
+      "temperament": [
+        "терпение",
+        "длинные розыгрыши",
+        "хороший возврат"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/valentin-vacherot/ve40/overview"
+      },
       "ytdPoints": 950,
       "seasonPoints": 900
     },
@@ -329,10 +559,20 @@
       "name": "Cameron Norrie",
       "avatar": "avatar_norrie",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/Norrie.jpg?raw=true",
-      "ranking": { "current": 24, "seasonDelta": -7, "trend": "down" },
+      "ranking": {
+        "current": 24,
+        "seasonDelta": -7,
+        "trend": "down"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["высокая выносливость", "длинные розыгрыши", "хороший возврат"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/cameron-norrie/ng30/overview" },
+      "temperament": [
+        "высокая выносливость",
+        "длинные розыгрыши",
+        "хороший возврат"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/cameron-norrie/ng30/overview"
+      },
       "ytdPoints": 400,
       "seasonPoints": -300
     },
@@ -341,10 +581,20 @@
       "name": "Jack Draper",
       "avatar": "avatar_draper",
       "avata_url": "https://github.com/StVl/tennis-widget-config/blob/main/draper.jpg?raw=true",
-      "ranking": { "current": 28, "seasonDelta": -3, "trend": "down" },
+      "ranking": {
+        "current": 25,
+        "seasonDelta": 0,
+        "trend": "down"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["мощная подача", "взрывная скорость", "тактическая агрессия"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/jack-draper/d0e4/overview" },
+      "temperament": [
+        "мощная подача",
+        "взрывная скорость",
+        "тактическая агрессия"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/jack-draper/d0e4/overview"
+      },
       "ytdPoints": 550,
       "seasonPoints": 100
     },
@@ -353,10 +603,20 @@
       "name": "Jakub Mensik",
       "avatar": "avatar_mensik",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/mensik-shanghai-2024-wednesday.jpg",
-      "ranking": { "current": 25, "seasonDelta": 15, "trend": "up" },
+      "ranking": {
+        "current": 26,
+        "seasonDelta": 14,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощный форхенд", "быстрая реакция"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/jakub-mensik/m0db/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощный форхенд",
+        "быстрая реакция"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/jakub-mensik/m0db/overview"
+      },
       "ytdPoints": 700,
       "seasonPoints": 600
     },
@@ -365,23 +625,65 @@
       "name": "Arthur Rinderknech",
       "avatar": "avatar_rinderknech",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/Arthur-Rinderknech.png?raw=true",
-      "ranking": { "current": 26, "seasonDelta": 24, "trend": "up" },
+      "ranking": {
+        "current": 27,
+        "seasonDelta": 23,
+        "trend": "stable"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "мощная подача", "короткие розыгрыши"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/arthur-rinderknech/rb74/overview" },
+      "temperament": [
+        "много эйсов",
+        "мощная подача",
+        "короткие розыгрыши"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/arthur-rinderknech/rb74/overview"
+      },
       "ytdPoints": 750,
       "seasonPoints": 700
     },
     {
-      "id": "fils",
-      "name": "Arthur Fils",
-      "avatar": "avatar_fils",
-      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/Arthur_Fils_-_2024_Olympics_(still)_(cropped).jpg?raw=true",
-      "ranking": { "current": 30, "seasonDelta": 0, "trend": "down" },
-      "playStyleId": "aggressive_baseliner",
-      "temperament": ["взрывная скорость", "тактическая агрессия", "раннее взятие мяча"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/arthur-fils/f0cr/overview" },
-      "ytdPoints": 600,
+      "id": "davidovich_fokina",
+      "name": "Alejandro Davidovich Fokina",
+      "avatar": "avatar_davidovich_fokina",
+      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/fokina.jpg?raw=true",
+      "ranking": {
+        "current": 28,
+        "seasonDelta": -6,
+        "trend": "stable"
+      },
+      "playStyleId": "counterpuncher",
+      "temperament": [
+        "терпение",
+        "быстрое перемещение",
+        "физическое давление"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/alejandro-davidovich-fokina/df24/overview"
+      },
+      "ytdPoints": 800,
+      "seasonPoints": 400
+    },
+    {
+      "id": "etcheverry",
+      "name": "Tomas Martin Etcheverry",
+      "avatar": "avatar_etcheverry",
+      "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/Mobile-Tomas-Etcheverry-Img-Carousel-6_12964a8a-4282-4cb9-b3e0-ff34a662feb9.webp",
+      "ranking": {
+        "current": 29,
+        "seasonDelta": 6,
+        "trend": "down"
+      },
+      "playStyleId": "grinder",
+      "temperament": [
+        "длинные розыгрыши",
+        "физическое давление",
+        "изматывание соперника"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/tomas-martin-etcheverry/et67/overview"
+      },
+      "ytdPoints": 500,
       "seasonPoints": 200
     },
     {
@@ -389,10 +691,20 @@
       "name": "Holger Rune",
       "avatar": "avatar_rune",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/holger%20rune.jpeg?raw=true",
-      "ranking": { "current": 27, "seasonDelta": -14, "trend": "up" },
+      "ranking": {
+        "current": 30,
+        "seasonDelta": -17,
+        "trend": "down"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "психологическое давление", "быстрая реакция"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/holger-rune/re44/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "психологическое давление",
+        "быстрая реакция"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/holger-rune/re44/overview"
+      },
       "ytdPoints": 350,
       "seasonPoints": -700
     },
@@ -401,34 +713,63 @@
       "name": "Tallon Griekspoor",
       "avatar": "avatar_griekspoor",
       "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/griekspoor_full_2026.png",
-      "ranking": { "current": 30, "seasonDelta": 0, "trend": "stable" },
+      "ranking": {
+        "current": 30,
+        "seasonDelta": 0,
+        "trend": "stable"
+      },
       "playStyleId": "servebot",
-      "temperament": ["мощная подача", "много эйсов", "тактическая агрессия"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/tallon-griekspoor/gf12/overview" },
+      "temperament": [
+        "мощная подача",
+        "много эйсов",
+        "тактическая агрессия"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/tallon-griekspoor/gf12/overview"
+      },
       "ytdPoints": 450,
       "seasonPoints": 50
     },
     {
-      "id": "etcheverry",
-      "name": "Tomas Martin Etcheverry",
-      "avatar": "avatar_etcheverry",
-      "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/Mobile-Tomas-Etcheverry-Img-Carousel-6_12964a8a-4282-4cb9-b3e0-ff34a662feb9.webp",
-      "ranking": { "current": 29, "seasonDelta": 6, "trend": "up" },
-      "playStyleId": "grinder",
-      "temperament": ["длинные розыгрыши", "физическое давление", "изматывание соперника"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/tomas-martin-etcheverry/et67/overview" },
-      "ytdPoints": 500,
-      "seasonPoints": 200
+      "id": "humbert",
+      "name": "Ugo Humbert",
+      "avatar": "avatar_humbert",
+      "ranking": {
+        "current": 31,
+        "seasonDelta": -7,
+        "trend": "up"
+      },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": [
+        "взрывная скорость",
+        "мощный форхенд",
+        "тактическая агрессия"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/ugo-humbert/he99/overview"
+      },
+      "ytdPoints": 440,
+      "seasonPoints": -210
     },
     {
       "id": "moutet",
       "name": "Corentin Moutet",
       "avatar": "avatar_moutet",
       "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/moutet.jpg?raw=true",
-      "ranking": { "current": 32, "seasonDelta": 23, "trend": "up" },
+      "ranking": {
+        "current": 32,
+        "seasonDelta": 23,
+        "trend": "down"
+      },
       "playStyleId": "all_court",
-      "temperament": ["нестандартная игра", "творчество", "разнообразие"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/corentin-moutet/ma51/overview" },
+      "temperament": [
+        "нестандартная игра",
+        "творчество",
+        "разнообразие"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/corentin-moutet/ma51/overview"
+      },
       "ytdPoints": 650,
       "seasonPoints": 600
     },
@@ -436,32 +777,41 @@
       "id": "nakashima",
       "name": "Brandon Nakashima",
       "avatar": "avatar_nakashima",
-      "ranking": { "current": 33, "seasonDelta": 12, "trend": "up" },
+      "ranking": {
+        "current": 33,
+        "seasonDelta": 12,
+        "trend": "stable"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["терпение", "хороший возврат", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/brandon-nakashima/ne44/overview" },
+      "temperament": [
+        "терпение",
+        "хороший возврат",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/brandon-nakashima/ne44/overview"
+      },
       "ytdPoints": 550,
       "seasonPoints": 400
-    },
-    {
-      "id": "humbert",
-      "name": "Ugo Humbert",
-      "avatar": "avatar_humbert",
-      "ranking": { "current": 34, "seasonDelta": -10, "trend": "down" },
-      "playStyleId": "aggressive_baseliner",
-      "temperament": ["взрывная скорость", "мощный форхенд", "тактическая агрессия"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/ugo-humbert/he99/overview" },
-      "ytdPoints": 350,
-      "seasonPoints": -300
     },
     {
       "id": "michelsen",
       "name": "Alex Michelsen",
       "avatar": "avatar_michelsen",
-      "ranking": { "current": 35, "seasonDelta": 10, "trend": "up" },
+      "ranking": {
+        "current": 34,
+        "seasonDelta": 11,
+        "trend": "down"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощная подача", "раннее взятие мяча"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/alex-michelsen/m0gs/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощная подача",
+        "раннее взятие мяча"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/alex-michelsen/m0gs/overview"
+      },
       "ytdPoints": 500,
       "seasonPoints": 350
     },
@@ -469,10 +819,20 @@
       "id": "diallo",
       "name": "Gabriel Diallo",
       "avatar": "avatar_diallo",
-      "ranking": { "current": 36, "seasonDelta": 34, "trend": "up" },
+      "ranking": {
+        "current": 35,
+        "seasonDelta": 35,
+        "trend": "stable"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "мощная подача", "физическое давление"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/gabriel-diallo/d0gs/overview" },
+      "temperament": [
+        "много эйсов",
+        "мощная подача",
+        "физическое давление"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/gabriel-diallo/d0gs/overview"
+      },
       "ytdPoints": 600,
       "seasonPoints": 550
     },
@@ -480,10 +840,20 @@
       "id": "munar",
       "name": "Jaume Munar",
       "avatar": "avatar_munar",
-      "ranking": { "current": 37, "seasonDelta": 5, "trend": "up" },
+      "ranking": {
+        "current": 36,
+        "seasonDelta": 6,
+        "trend": "stable"
+      },
       "playStyleId": "grinder",
-      "temperament": ["длинные розыгрыши", "высокая выносливость", "физическое давление"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/jaume-munar/mb44/overview" },
+      "temperament": [
+        "длинные розыгрыши",
+        "высокая выносливость",
+        "физическое давление"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/jaume-munar/mb44/overview"
+      },
       "ytdPoints": 450,
       "seasonPoints": 200
     },
@@ -491,10 +861,20 @@
       "id": "shapovalov",
       "name": "Denis Shapovalov",
       "avatar": "avatar_shapovalov",
-      "ranking": { "current": 38, "seasonDelta": 17, "trend": "up" },
+      "ranking": {
+        "current": 37,
+        "seasonDelta": 18,
+        "trend": "down"
+      },
       "playStyleId": "all_court",
-      "temperament": ["творчество", "нестандартная игра", "взрывная скорость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/denis-shapovalov/su55/overview" },
+      "temperament": [
+        "творчество",
+        "нестандартная игра",
+        "взрывная скорость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/denis-shapovalov/su55/overview"
+      },
       "ytdPoints": 500,
       "seasonPoints": 400
     },
@@ -502,10 +882,20 @@
       "id": "tabilo",
       "name": "Alejandro Tabilo",
       "avatar": "avatar_tabilo",
-      "ranking": { "current": 39, "seasonDelta": 9, "trend": "up" },
+      "ranking": {
+        "current": 38,
+        "seasonDelta": 10,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["плотный удар", "тактическая агрессия", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/alejandro-tabilo/t0a1/overview" },
+      "temperament": [
+        "плотный удар",
+        "тактическая агрессия",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/alejandro-tabilo/t0a1/overview"
+      },
       "ytdPoints": 450,
       "seasonPoints": 300
     },
@@ -513,10 +903,20 @@
       "id": "fonseca",
       "name": "Joao Fonseca",
       "avatar": "avatar_fonseca",
-      "ranking": { "current": 40, "seasonDelta": 110, "trend": "up" },
+      "ranking": {
+        "current": 39,
+        "seasonDelta": 111,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["взрывная скорость", "мощный форхенд", "уверенность под давлением"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/joao-fonseca/f0js/overview" },
+      "temperament": [
+        "взрывная скорость",
+        "мощный форхенд",
+        "уверенность под давлением"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/joao-fonseca/f0js/overview"
+      },
       "ytdPoints": 800,
       "seasonPoints": 800
     },
@@ -524,10 +924,20 @@
       "id": "brooksby",
       "name": "Jenson Brooksby",
       "avatar": "avatar_brooksby",
-      "ranking": { "current": 41, "seasonDelta": 19, "trend": "up" },
+      "ranking": {
+        "current": 40,
+        "seasonDelta": 20,
+        "trend": "down"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["хороший возврат", "терпение", "нестандартная игра"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/jenson-brooksby/b879/overview" },
+      "temperament": [
+        "хороший возврат",
+        "терпение",
+        "нестандартная игра"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/jenson-brooksby/b879/overview"
+      },
       "ytdPoints": 550,
       "seasonPoints": 450
     },
@@ -535,10 +945,20 @@
       "id": "korda",
       "name": "Sebastian Korda",
       "avatar": "avatar_korda",
-      "ranking": { "current": 42, "seasonDelta": -14, "trend": "down" },
+      "ranking": {
+        "current": 41,
+        "seasonDelta": -13,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["мощная подача", "тактическая агрессия", "мощный форхенд"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/sebastian-korda/kd14/overview" },
+      "temperament": [
+        "мощная подача",
+        "тактическая агрессия",
+        "мощный форхенд"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/sebastian-korda/kd14/overview"
+      },
       "ytdPoints": 300,
       "seasonPoints": -400
     },
@@ -546,10 +966,20 @@
       "id": "mannarino",
       "name": "Adrian Mannarino",
       "avatar": "avatar_mannarino",
-      "ranking": { "current": 43, "seasonDelta": 2, "trend": "up" },
+      "ranking": {
+        "current": 42,
+        "seasonDelta": 3,
+        "trend": "down"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["нестандартная игра", "хороший возврат", "терпение"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/adrian-mannarino/ma38/overview" },
+      "temperament": [
+        "нестандартная игра",
+        "хороший возврат",
+        "терпение"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/adrian-mannarino/ma38/overview"
+      },
       "ytdPoints": 350,
       "seasonPoints": 100
     },
@@ -557,10 +987,20 @@
       "id": "atmane",
       "name": "Terence Atmane",
       "avatar": "avatar_atmane",
-      "ranking": { "current": 44, "seasonDelta": 36, "trend": "up" },
+      "ranking": {
+        "current": 43,
+        "seasonDelta": 37,
+        "trend": "stable"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "мощная подача", "короткие розыгрыши"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/terence-atmane/at44/overview" },
+      "temperament": [
+        "много эйсов",
+        "мощная подача",
+        "короткие розыгрыши"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/terence-atmane/at44/overview"
+      },
       "ytdPoints": 600,
       "seasonPoints": 580
     },
@@ -568,21 +1008,62 @@
       "id": "popyrin",
       "name": "Alexei Popyrin",
       "avatar": "avatar_popyrin",
-      "ranking": { "current": 45, "seasonDelta": 5, "trend": "up" },
+      "ranking": {
+        "current": 44,
+        "seasonDelta": 6,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["мощный форхенд", "тактическая агрессия", "нестандартная игра"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/alexei-popyrin/pd44/overview" },
-      "ytdPoints": 400,
-      "seasonPoints": 150
+      "temperament": [
+        "мощный форхенд",
+        "тактическая агрессия",
+        "нестандартная игра"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/alexei-popyrin/pd44/overview"
+      },
+      "ytdPoints": 445,
+      "seasonPoints": 195
+    },
+    {
+      "id": "blockx",
+      "name": "Alexander Blockx",
+      "avatar": "avatar_blockx",
+      "ranking": {
+        "current": 45,
+        "seasonDelta": 85,
+        "trend": "up"
+      },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": [
+        "тактическая агрессия",
+        "быстрая реакция",
+        "мощный форхенд"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/alexander-blockx/b0ax/overview"
+      },
+      "ytdPoints": 790,
+      "seasonPoints": 770
     },
     {
       "id": "bergs",
       "name": "Zizou Bergs",
       "avatar": "avatar_bergs",
-      "ranking": { "current": 46, "seasonDelta": 9, "trend": "up" },
+      "ranking": {
+        "current": 46,
+        "seasonDelta": 9,
+        "trend": "down"
+      },
       "playStyleId": "grinder",
-      "temperament": ["высокая выносливость", "длинные розыгрыши", "хороший возврат"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/zizou-bergs/b0zz/overview" },
+      "temperament": [
+        "высокая выносливость",
+        "длинные розыгрыши",
+        "хороший возврат"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/zizou-bergs/b0zz/overview"
+      },
       "ytdPoints": 380,
       "seasonPoints": 250
     },
@@ -590,10 +1071,20 @@
       "id": "marozsan",
       "name": "Fabian Marozsan",
       "avatar": "avatar_marozsan",
-      "ranking": { "current": 47, "seasonDelta": -9, "trend": "down" },
+      "ranking": {
+        "current": 47,
+        "seasonDelta": -9,
+        "trend": "stable"
+      },
       "playStyleId": "grinder",
-      "temperament": ["физическое давление", "изматывание соперника", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/fabian-marozsan/m0fb/overview" },
+      "temperament": [
+        "физическое давление",
+        "изматывание соперника",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/fabian-marozsan/m0fb/overview"
+      },
       "ytdPoints": 300,
       "seasonPoints": -150
     },
@@ -601,10 +1092,20 @@
       "id": "borges",
       "name": "Nuno Borges",
       "avatar": "avatar_borges",
-      "ranking": { "current": 48, "seasonDelta": -6, "trend": "down" },
+      "ranking": {
+        "current": 48,
+        "seasonDelta": -6,
+        "trend": "down"
+      },
       "playStyleId": "all_court",
-      "temperament": ["тактическая гибкость", "стабильность", "хороший возврат"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/nuno-borges/b0nu/overview" },
+      "temperament": [
+        "тактическая гибкость",
+        "стабильность",
+        "хороший возврат"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/nuno-borges/b0nu/overview"
+      },
       "ytdPoints": 280,
       "seasonPoints": -100
     },
@@ -613,10 +1114,20 @@
       "name": "Stefanos Tsitsipas",
       "avatar": "avatar_tsitsipas",
       "avatar_url": "https://raw.githubusercontent.com/StVl/tennis-widget-config/refs/heads/main/tsitsipas.jpeg",
-      "ranking": { "current": 49, "seasonDelta": -40, "trend": "down" },
+      "ranking": {
+        "current": 49,
+        "seasonDelta": -40,
+        "trend": "down"
+      },
       "playStyleId": "all_court",
-      "temperament": ["творчество", "разнообразие", "сильный воллей"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/stefanos-tsitsipas/te44/overview" },
+      "temperament": [
+        "творчество",
+        "разнообразие",
+        "сильный воллей"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/stefanos-tsitsipas/te44/overview"
+      },
       "ytdPoints": 250,
       "seasonPoints": -900
     },
@@ -624,10 +1135,20 @@
       "id": "baez",
       "name": "Sebastian Baez",
       "avatar": "avatar_baez",
-      "ranking": { "current": 50, "seasonDelta": -4, "trend": "down" },
+      "ranking": {
+        "current": 50,
+        "seasonDelta": -4,
+        "trend": "down"
+      },
       "playStyleId": "grinder",
-      "temperament": ["длинные розыгрыши", "физическое давление", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/sebastian-baez/b0sb/overview" },
+      "temperament": [
+        "длинные розыгрыши",
+        "физическое давление",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/sebastian-baez/b0sb/overview"
+      },
       "ytdPoints": 300,
       "seasonPoints": -50
     },
@@ -635,10 +1156,20 @@
       "id": "fucsovics",
       "name": "Marton Fucsovics",
       "avatar": "avatar_fucsovics",
-      "ranking": { "current": 51, "seasonDelta": 14, "trend": "up" },
+      "ranking": {
+        "current": 51,
+        "seasonDelta": 14,
+        "trend": "stable"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["сильный бэкхенд", "терпение", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/marton-fucsovics/fb14/overview" },
+      "temperament": [
+        "сильный бэкхенд",
+        "терпение",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/marton-fucsovics/fb14/overview"
+      },
       "ytdPoints": 420,
       "seasonPoints": 350
     },
@@ -646,21 +1177,41 @@
       "id": "altmaier",
       "name": "Daniel Altmaier",
       "avatar": "avatar_altmaier",
-      "ranking": { "current": 52, "seasonDelta": 8, "trend": "up" },
+      "ranking": {
+        "current": 52,
+        "seasonDelta": 8,
+        "trend": "up"
+      },
       "playStyleId": "grinder",
-      "temperament": ["высокая выносливость", "длинные розыгрыши", "физическое давление"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/daniel-altmaier/ae44/overview" },
-      "ytdPoints": 380,
-      "seasonPoints": 250
+      "temperament": [
+        "высокая выносливость",
+        "длинные розыгрыши",
+        "физическое давление"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/daniel-altmaier/ae44/overview"
+      },
+      "ytdPoints": 425,
+      "seasonPoints": 295
     },
     {
       "id": "majchrzak",
       "name": "Kamil Majchrzak",
       "avatar": "avatar_majchrzak",
-      "ranking": { "current": 53, "seasonDelta": 27, "trend": "up" },
+      "ranking": {
+        "current": 53,
+        "seasonDelta": 27,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощный форхенд", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/kamil-majchrzak/mb24/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощный форхенд",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/kamil-majchrzak/mb24/overview"
+      },
       "ytdPoints": 450,
       "seasonPoints": 420
     },
@@ -668,32 +1219,62 @@
       "id": "cilic",
       "name": "Marin Cilic",
       "avatar": "avatar_cilic",
-      "ranking": { "current": 54, "seasonDelta": 76, "trend": "up" },
+      "ranking": {
+        "current": 54,
+        "seasonDelta": 76,
+        "trend": "stable"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "мощная подача", "игра у сетки"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/marin-cilic/ce14/overview" },
-      "ytdPoints": 500,
-      "seasonPoints": 490
+      "temperament": [
+        "много эйсов",
+        "мощная подача",
+        "игра у сетки"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/marin-cilic/ce14/overview"
+      },
+      "ytdPoints": 545,
+      "seasonPoints": 535
     },
     {
       "id": "machac",
       "name": "Tomas Machac",
       "avatar": "avatar_machac",
-      "ranking": { "current": 55, "seasonDelta": -7, "trend": "down" },
+      "ranking": {
+        "current": 55,
+        "seasonDelta": -7,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["взрывная скорость", "мощный форхенд", "тактическая агрессия"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/tomas-machac/m0tc/overview" },
-      "ytdPoints": 280,
-      "seasonPoints": -100
+      "temperament": [
+        "взрывная скорость",
+        "мощный форхенд",
+        "тактическая агрессия"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/tomas-machac/m0tc/overview"
+      },
+      "ytdPoints": 325,
+      "seasonPoints": -55
     },
     {
       "id": "quinn",
       "name": "Ethan Quinn",
       "avatar": "avatar_quinn",
-      "ranking": { "current": 56, "seasonDelta": 44, "trend": "up" },
+      "ranking": {
+        "current": 56,
+        "seasonDelta": 44,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощная подача", "быстрая реакция"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/ethan-quinn/q0et/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощная подача",
+        "быстрая реакция"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/ethan-quinn/q0et/overview"
+      },
       "ytdPoints": 500,
       "seasonPoints": 480
     },
@@ -701,43 +1282,83 @@
       "id": "mpetshi_perricard",
       "name": "Giovanni Mpetshi Perricard",
       "avatar": "avatar_mpetshi_perricard",
-      "ranking": { "current": 57, "seasonDelta": 15, "trend": "up" },
+      "ranking": {
+        "current": 57,
+        "seasonDelta": 15,
+        "trend": "stable"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "мощная подача", "короткие розыгрыши"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/giovanni-mpetshi-perricard/m0gp/overview" },
-      "ytdPoints": 380,
-      "seasonPoints": 300
+      "temperament": [
+        "много эйсов",
+        "мощная подача",
+        "короткие розыгрыши"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/giovanni-mpetshi-perricard/m0gp/overview"
+      },
+      "ytdPoints": 425,
+      "seasonPoints": 345
     },
     {
       "id": "kecmanovic",
       "name": "Miomir Kecmanovic",
       "avatar": "avatar_kecmanovic",
-      "ranking": { "current": 58, "seasonDelta": -6, "trend": "down" },
+      "ranking": {
+        "current": 58,
+        "seasonDelta": -6,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["плотный удар", "стабильность", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/miomir-kecmanovic/ke44/overview" },
-      "ytdPoints": 250,
-      "seasonPoints": -80
+      "temperament": [
+        "плотный удар",
+        "стабильность",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/miomir-kecmanovic/ke44/overview"
+      },
+      "ytdPoints": 295,
+      "seasonPoints": -35
     },
     {
       "id": "buse",
       "name": "Ignacio Buse",
       "avatar": "avatar_buse",
-      "ranking": { "current": 59, "seasonDelta": 91, "trend": "up" },
+      "ranking": {
+        "current": 59,
+        "seasonDelta": 91,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "высокая выносливость", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/ignacio-buse/b0ig/overview" },
-      "ytdPoints": 520,
-      "seasonPoints": 510
+      "temperament": [
+        "тактическая агрессия",
+        "высокая выносливость",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/ignacio-buse/b0ig/overview"
+      },
+      "ytdPoints": 565,
+      "seasonPoints": 555
     },
     {
       "id": "navone",
       "name": "Mariano Navone",
       "avatar": "avatar_navone",
-      "ranking": { "current": 60, "seasonDelta": -5, "trend": "down" },
+      "ranking": {
+        "current": 60,
+        "seasonDelta": -5,
+        "trend": "stable"
+      },
       "playStyleId": "grinder",
-      "temperament": ["длинные розыгрыши", "физическое давление", "изматывание соперника"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/mariano-navone/n0ma/overview" },
+      "temperament": [
+        "длинные розыгрыши",
+        "физическое давление",
+        "изматывание соперника"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/mariano-navone/n0ma/overview"
+      },
       "ytdPoints": 280,
       "seasonPoints": -50
     },
@@ -745,32 +1366,62 @@
       "id": "hanfmann",
       "name": "Yannick Hanfmann",
       "avatar": "avatar_hanfmann",
-      "ranking": { "current": 61, "seasonDelta": 29, "trend": "up" },
+      "ranking": {
+        "current": 61,
+        "seasonDelta": 29,
+        "trend": "stable"
+      },
       "playStyleId": "all_court",
-      "temperament": ["тактическая гибкость", "стабильность", "нестандартная игра"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/yannick-hanfmann/hb24/overview" },
-      "ytdPoints": 420,
-      "seasonPoints": 380
+      "temperament": [
+        "тактическая гибкость",
+        "стабильность",
+        "нестандартная игра"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/yannick-hanfmann/hb24/overview"
+      },
+      "ytdPoints": 465,
+      "seasonPoints": 425
     },
     {
       "id": "van_de_zandschulp",
       "name": "Botic Van De Zandschulp",
       "avatar": "avatar_van_de_zandschulp",
-      "ranking": { "current": 62, "seasonDelta": 6, "trend": "up" },
+      "ranking": {
+        "current": 62,
+        "seasonDelta": 6,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["плотный удар", "мощный форхенд", "тактическая агрессия"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v0bz/overview" },
-      "ytdPoints": 300,
-      "seasonPoints": 100
+      "temperament": [
+        "плотный удар",
+        "мощный форхенд",
+        "тактическая агрессия"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v0bz/overview"
+      },
+      "ytdPoints": 435,
+      "seasonPoints": 235
     },
     {
       "id": "sonego",
       "name": "Lorenzo Sonego",
       "avatar": "avatar_sonego",
-      "ranking": { "current": 63, "seasonDelta": -7, "trend": "down" },
+      "ranking": {
+        "current": 63,
+        "seasonDelta": -7,
+        "trend": "down"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["мощная подача", "тактическая агрессия", "мощный форхенд"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/lorenzo-sonego/sa83/overview" },
+      "temperament": [
+        "мощная подача",
+        "тактическая агрессия",
+        "мощный форхенд"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/lorenzo-sonego/sa83/overview"
+      },
       "ytdPoints": 250,
       "seasonPoints": -80
     },
@@ -778,10 +1429,20 @@
       "id": "opelka",
       "name": "Reilly Opelka",
       "avatar": "avatar_opelka",
-      "ranking": { "current": 64, "seasonDelta": 36, "trend": "up" },
+      "ranking": {
+        "current": 64,
+        "seasonDelta": 36,
+        "trend": "stable"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "мощная подача", "зависимость от подачи"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/reilly-opelka/oe44/overview" },
+      "temperament": [
+        "много эйсов",
+        "мощная подача",
+        "зависимость от подачи"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/reilly-opelka/oe44/overview"
+      },
       "ytdPoints": 420,
       "seasonPoints": 400
     },
@@ -789,10 +1450,20 @@
       "id": "collignon",
       "name": "Raphael Collignon",
       "avatar": "avatar_collignon",
-      "ranking": { "current": 65, "seasonDelta": 115, "trend": "up" },
+      "ranking": {
+        "current": 65,
+        "seasonDelta": 115,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "быстрая реакция", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/raphael-collignon/c0rc/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "быстрая реакция",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/raphael-collignon/c0rc/overview"
+      },
       "ytdPoints": 480,
       "seasonPoints": 470
     },
@@ -800,10 +1471,20 @@
       "id": "giron",
       "name": "Marcos Giron",
       "avatar": "avatar_giron",
-      "ranking": { "current": 66, "seasonDelta": 4, "trend": "up" },
+      "ranking": {
+        "current": 66,
+        "seasonDelta": 4,
+        "trend": "stable"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["терпение", "хороший возврат", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/marcos-giron/ge44/overview" },
+      "temperament": [
+        "терпение",
+        "хороший возврат",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/marcos-giron/ge44/overview"
+      },
       "ytdPoints": 320,
       "seasonPoints": 100
     },
@@ -811,10 +1492,20 @@
       "id": "ugo_carabelli",
       "name": "Camilo Ugo Carabelli",
       "avatar": "avatar_ugo_carabelli",
-      "ranking": { "current": 67, "seasonDelta": 18, "trend": "up" },
+      "ranking": {
+        "current": 67,
+        "seasonDelta": 18,
+        "trend": "stable"
+      },
       "playStyleId": "grinder",
-      "temperament": ["длинные розыгрыши", "высокая выносливость", "физическое давление"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/camilo-ugo-carabelli/uc44/overview" },
+      "temperament": [
+        "длинные розыгрыши",
+        "высокая выносливость",
+        "физическое давление"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/camilo-ugo-carabelli/uc44/overview"
+      },
       "ytdPoints": 380,
       "seasonPoints": 320
     },
@@ -822,10 +1513,20 @@
       "id": "cazaux",
       "name": "Arthur Cazaux",
       "avatar": "avatar_cazaux",
-      "ranking": { "current": 68, "seasonDelta": -10, "trend": "down" },
+      "ranking": {
+        "current": 68,
+        "seasonDelta": -10,
+        "trend": "down"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "взрывная скорость", "мощный форхенд"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/arthur-cazaux/c0ac/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "взрывная скорость",
+        "мощный форхенд"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/arthur-cazaux/c0ac/overview"
+      },
       "ytdPoints": 240,
       "seasonPoints": -100
     },
@@ -833,10 +1534,20 @@
       "id": "jm_cerundolo",
       "name": "Juan Manuel Cerundolo",
       "avatar": "avatar_jm_cerundolo",
-      "ranking": { "current": 69, "seasonDelta": -9, "trend": "down" },
+      "ranking": {
+        "current": 69,
+        "seasonDelta": -9,
+        "trend": "down"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощный форхенд", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/juan-manuel-cerundolo/c0jm/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощный форхенд",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/juan-manuel-cerundolo/c0jm/overview"
+      },
       "ytdPoints": 260,
       "seasonPoints": -60
     },
@@ -844,10 +1555,20 @@
       "id": "kopriva",
       "name": "Vit Kopriva",
       "avatar": "avatar_kopriva",
-      "ranking": { "current": 70, "seasonDelta": 30, "trend": "up" },
+      "ranking": {
+        "current": 70,
+        "seasonDelta": 30,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощная подача", "быстрая реакция"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/vit-kopriva/k0vi/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощная подача",
+        "быстрая реакция"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/vit-kopriva/k0vi/overview"
+      },
       "ytdPoints": 380,
       "seasonPoints": 350
     },
@@ -855,10 +1576,20 @@
       "id": "royer",
       "name": "Valentin Royer",
       "avatar": "avatar_royer",
-      "ranking": { "current": 71, "seasonDelta": 89, "trend": "up" },
+      "ranking": {
+        "current": 71,
+        "seasonDelta": 89,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "стабильность", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/valentin-royer/r0vr/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "стабильность",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/valentin-royer/r0vr/overview"
+      },
       "ytdPoints": 430,
       "seasonPoints": 420
     },
@@ -866,10 +1597,20 @@
       "id": "hurkacz",
       "name": "Hubert Hurkacz",
       "avatar": "avatar_hurkacz",
-      "ranking": { "current": 72, "seasonDelta": -62, "trend": "down" },
+      "ranking": {
+        "current": 72,
+        "seasonDelta": -62,
+        "trend": "down"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "игра у сетки", "тактическая гибкость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/hubert-hurkacz/hf44/overview" },
+      "temperament": [
+        "много эйсов",
+        "игра у сетки",
+        "тактическая гибкость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/hubert-hurkacz/hf44/overview"
+      },
       "ytdPoints": 200,
       "seasonPoints": -800
     },
@@ -877,54 +1618,104 @@
       "id": "bellucci",
       "name": "Mattia Bellucci",
       "avatar": "avatar_bellucci",
-      "ranking": { "current": 73, "seasonDelta": 12, "trend": "up" },
+      "ranking": {
+        "current": 73,
+        "seasonDelta": 12,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощный форхенд", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/mattia-bellucci/b0mb/overview" },
-      "ytdPoints": 320,
-      "seasonPoints": 250
+      "temperament": [
+        "тактическая агрессия",
+        "мощный форхенд",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/mattia-bellucci/b0mb/overview"
+      },
+      "ytdPoints": 365,
+      "seasonPoints": 295
     },
     {
       "id": "dzumhur",
       "name": "Damir Dzumhur",
       "avatar": "avatar_dzumhur",
-      "ranking": { "current": 74, "seasonDelta": 26, "trend": "up" },
+      "ranking": {
+        "current": 74,
+        "seasonDelta": 26,
+        "trend": "up"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["терпение", "быстрое перемещение", "нестандартная игра"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/damir-dzumhur/dz44/overview" },
-      "ytdPoints": 360,
-      "seasonPoints": 320
+      "temperament": [
+        "терпение",
+        "быстрое перемещение",
+        "нестандартная игра"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/damir-dzumhur/dz44/overview"
+      },
+      "ytdPoints": 405,
+      "seasonPoints": 365
     },
     {
       "id": "struff",
       "name": "Jan-Lennard Struff",
       "avatar": "avatar_struff",
-      "ranking": { "current": 75, "seasonDelta": 0, "trend": "stable" },
+      "ranking": {
+        "current": 75,
+        "seasonDelta": 0,
+        "trend": "stable"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "мощная подача", "короткие розыгрыши"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/jan-lennard-struff/sm44/overview" },
-      "ytdPoints": 280,
-      "seasonPoints": 20
+      "temperament": [
+        "много эйсов",
+        "мощная подача",
+        "короткие розыгрыши"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/jan-lennard-struff/sm44/overview"
+      },
+      "ytdPoints": 325,
+      "seasonPoints": 65
     },
     {
       "id": "shevchenko",
       "name": "Alexander Shevchenko",
       "avatar": "avatar_shevchenko",
-      "ranking": { "current": 76, "seasonDelta": 6, "trend": "up" },
+      "ranking": {
+        "current": 76,
+        "seasonDelta": 6,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "стабильность", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/alexander-shevchenko/s0as/overview" },
-      "ytdPoints": 300,
-      "seasonPoints": 150
+      "temperament": [
+        "тактическая агрессия",
+        "стабильность",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/alexander-shevchenko/s0as/overview"
+      },
+      "ytdPoints": 345,
+      "seasonPoints": 195
     },
     {
       "id": "burruchaga",
       "name": "Andres Burruchaga",
       "avatar": "avatar_burruchaga",
-      "ranking": { "current": 77, "seasonDelta": 53, "trend": "up" },
+      "ranking": {
+        "current": 77,
+        "seasonDelta": 53,
+        "trend": "down"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощный форхенд", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/andres-burruchaga/b0ab/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощный форхенд",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/andres-burruchaga/b0ab/overview"
+      },
       "ytdPoints": 380,
       "seasonPoints": 360
     },
@@ -932,10 +1723,20 @@
       "id": "ofner",
       "name": "Sebastian Ofner",
       "avatar": "avatar_ofner",
-      "ranking": { "current": 78, "seasonDelta": -6, "trend": "down" },
+      "ranking": {
+        "current": 78,
+        "seasonDelta": -6,
+        "trend": "down"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["плотный удар", "тактическая агрессия", "мощная подача"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/sebastian-ofner/oe14/overview" },
+      "temperament": [
+        "плотный удар",
+        "тактическая агрессия",
+        "мощная подача"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/sebastian-ofner/oe14/overview"
+      },
       "ytdPoints": 240,
       "seasonPoints": -50
     },
@@ -943,10 +1744,20 @@
       "id": "spizzirri",
       "name": "Eliot Spizzirri",
       "avatar": "avatar_spizzirri",
-      "ranking": { "current": 79, "seasonDelta": 121, "trend": "up" },
+      "ranking": {
+        "current": 79,
+        "seasonDelta": 121,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "быстрая реакция", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/eliot-spizzirri/s0el/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "быстрая реакция",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/eliot-spizzirri/s0el/overview"
+      },
       "ytdPoints": 430,
       "seasonPoints": 420
     },
@@ -954,43 +1765,83 @@
       "id": "bautista_agut",
       "name": "Roberto Bautista-Agut",
       "avatar": "avatar_bautista_agut",
-      "ranking": { "current": 80, "seasonDelta": -18, "trend": "down" },
+      "ranking": {
+        "current": 80,
+        "seasonDelta": -18,
+        "trend": "stable"
+      },
       "playStyleId": "counterpuncher",
-      "temperament": ["терпение", "высокая выносливость", "хороший возврат"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/roberto-bautista-agut/be30/overview" },
-      "ytdPoints": 220,
-      "seasonPoints": -250
+      "temperament": [
+        "терпение",
+        "высокая выносливость",
+        "хороший возврат"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/roberto-bautista-agut/be30/overview"
+      },
+      "ytdPoints": 265,
+      "seasonPoints": -205
     },
     {
       "id": "medjedovic",
       "name": "Hamad Medjedovic",
       "avatar": "avatar_medjedovic",
-      "ranking": { "current": 81, "seasonDelta": 14, "trend": "up" },
+      "ranking": {
+        "current": 81,
+        "seasonDelta": 14,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощный форхенд", "быстрая реакция"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/hamad-medjedovic/m0hm/overview" },
-      "ytdPoints": 320,
-      "seasonPoints": 270
+      "temperament": [
+        "тактическая агрессия",
+        "мощный форхенд",
+        "быстрая реакция"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/hamad-medjedovic/m0hm/overview"
+      },
+      "ytdPoints": 365,
+      "seasonPoints": 315
     },
     {
       "id": "svajda",
       "name": "Zachary Svajda",
       "avatar": "avatar_svajda",
-      "ranking": { "current": 82, "seasonDelta": 48, "trend": "up" },
+      "ranking": {
+        "current": 82,
+        "seasonDelta": 48,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["мощная подача", "тактическая агрессия", "раннее взятие мяча"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/zachary-svajda/s0zs/overview" },
-      "ytdPoints": 380,
-      "seasonPoints": 360
+      "temperament": [
+        "мощная подача",
+        "тактическая агрессия",
+        "раннее взятие мяча"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/zachary-svajda/s0zs/overview"
+      },
+      "ytdPoints": 425,
+      "seasonPoints": 405
     },
     {
       "id": "tirante",
       "name": "Agustin Tirante",
       "avatar": "avatar_tirante",
-      "ranking": { "current": 83, "seasonDelta": -13, "trend": "down" },
+      "ranking": {
+        "current": 83,
+        "seasonDelta": -13,
+        "trend": "down"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощный форхенд", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/agustin-tirante/t0at/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощный форхенд",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/agustin-tirante/t0at/overview"
+      },
       "ytdPoints": 220,
       "seasonPoints": -120
     },
@@ -998,21 +1849,41 @@
       "id": "vukic",
       "name": "Aleksandar Vukic",
       "avatar": "avatar_vukic",
-      "ranking": { "current": 84, "seasonDelta": 6, "trend": "up" },
+      "ranking": {
+        "current": 84,
+        "seasonDelta": 6,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "стабильность", "мощная подача"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/aleksandar-vukic/v0av/overview" },
-      "ytdPoints": 280,
-      "seasonPoints": 130
+      "temperament": [
+        "тактическая агрессия",
+        "стабильность",
+        "мощная подача"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/aleksandar-vukic/v0av/overview"
+      },
+      "ytdPoints": 325,
+      "seasonPoints": 175
     },
     {
       "id": "kovacevic",
       "name": "Aleksandar Kovacevic",
       "avatar": "avatar_kovacevic",
-      "ranking": { "current": 85, "seasonDelta": 10, "trend": "up" },
+      "ranking": {
+        "current": 85,
+        "seasonDelta": 10,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощная подача", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/aleksandar-kovacevic/k0ak/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощная подача",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/aleksandar-kovacevic/k0ak/overview"
+      },
       "ytdPoints": 300,
       "seasonPoints": 200
     },
@@ -1020,10 +1891,20 @@
       "id": "misolic",
       "name": "Filip Misolic",
       "avatar": "avatar_misolic",
-      "ranking": { "current": 86, "seasonDelta": 34, "trend": "up" },
+      "ranking": {
+        "current": 86,
+        "seasonDelta": 34,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощный форхенд", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/filip-misolic/m0fm/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощный форхенд",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/filip-misolic/m0fm/overview"
+      },
       "ytdPoints": 340,
       "seasonPoints": 310
     },
@@ -1031,10 +1912,20 @@
       "id": "comesana",
       "name": "Francisco Comesana",
       "avatar": "avatar_comesana",
-      "ranking": { "current": 87, "seasonDelta": 13, "trend": "up" },
+      "ranking": {
+        "current": 87,
+        "seasonDelta": 13,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "высокая выносливость", "плотный удар"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/francisco-comesana/c0fc/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "высокая выносливость",
+        "плотный удар"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/francisco-comesana/c0fc/overview"
+      },
       "ytdPoints": 300,
       "seasonPoints": 200
     },
@@ -1042,10 +1933,20 @@
       "id": "carreno_busta",
       "name": "Pablo Carreno-Busta",
       "avatar": "avatar_carreno_busta",
-      "ranking": { "current": 88, "seasonDelta": -10, "trend": "down" },
+      "ranking": {
+        "current": 88,
+        "seasonDelta": -10,
+        "trend": "down"
+      },
       "playStyleId": "grinder",
-      "temperament": ["терпение", "длинные розыгрыши", "изматывание соперника"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/pablo-carreno-busta/ca77/overview" },
+      "temperament": [
+        "терпение",
+        "длинные розыгрыши",
+        "изматывание соперника"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/pablo-carreno-busta/ca77/overview"
+      },
       "ytdPoints": 200,
       "seasonPoints": -130
     },
@@ -1053,21 +1954,41 @@
       "id": "jodar",
       "name": "Rafael Jodar",
       "avatar": "avatar_jodar",
-      "ranking": { "current": 89, "seasonDelta": 111, "trend": "up" },
+      "ranking": {
+        "current": 89,
+        "seasonDelta": 111,
+        "trend": "up"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощный форхенд", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/rafael-jodar/j0ra/overview" },
-      "ytdPoints": 380,
-      "seasonPoints": 370
+      "temperament": [
+        "тактическая агрессия",
+        "мощный форхенд",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/rafael-jodar/j0ra/overview"
+      },
+      "ytdPoints": 470,
+      "seasonPoints": 460
     },
     {
       "id": "halys",
       "name": "Quentin Halys",
       "avatar": "avatar_halys",
-      "ranking": { "current": 90, "seasonDelta": 5, "trend": "up" },
+      "ranking": {
+        "current": 90,
+        "seasonDelta": 5,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "взрывная скорость", "мощная подача"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/quentin-halys/hb74/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "взрывная скорость",
+        "мощная подача"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/quentin-halys/hb74/overview"
+      },
       "ytdPoints": 280,
       "seasonPoints": 100
     },
@@ -1075,32 +1996,41 @@
       "id": "berrettini",
       "name": "Matteo Berrettini",
       "avatar": "avatar_berrettini",
-      "ranking": { "current": 91, "seasonDelta": -31, "trend": "down" },
+      "ranking": {
+        "current": 91,
+        "seasonDelta": -31,
+        "trend": "down"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "мощная подача", "мощный форхенд"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/matteo-berrettini/be24/overview" },
+      "temperament": [
+        "много эйсов",
+        "мощная подача",
+        "мощный форхенд"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/matteo-berrettini/be24/overview"
+      },
       "ytdPoints": 220,
       "seasonPoints": -300
-    },
-    {
-      "id": "blockx",
-      "name": "Alexander Blockx",
-      "avatar": "avatar_blockx",
-      "ranking": { "current": 92, "seasonDelta": 38, "trend": "up" },
-      "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "быстрая реакция", "мощный форхенд"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/alexander-blockx/b0ax/overview" },
-      "ytdPoints": 340,
-      "seasonPoints": 320
     },
     {
       "id": "dimitrov",
       "name": "Grigor Dimitrov",
       "avatar": "avatar_dimitrov",
-      "ranking": { "current": 93, "seasonDelta": -67, "trend": "down" },
+      "ranking": {
+        "current": 93,
+        "seasonDelta": -67,
+        "trend": "down"
+      },
       "playStyleId": "all_court",
-      "temperament": ["творчество", "разнообразие", "тактическая гибкость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/grigor-dimitrov/d875/overview" },
+      "temperament": [
+        "творчество",
+        "разнообразие",
+        "тактическая гибкость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/grigor-dimitrov/d875/overview"
+      },
       "ytdPoints": 180,
       "seasonPoints": -700
     },
@@ -1108,10 +2038,20 @@
       "id": "muller",
       "name": "Alexandre Muller",
       "avatar": "avatar_muller",
-      "ranking": { "current": 94, "seasonDelta": -6, "trend": "down" },
+      "ranking": {
+        "current": 94,
+        "seasonDelta": -6,
+        "trend": "down"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощный форхенд", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/alexandre-muller/m0am/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощный форхенд",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/alexandre-muller/m0am/overview"
+      },
       "ytdPoints": 240,
       "seasonPoints": -30
     },
@@ -1119,10 +2059,20 @@
       "id": "duckworth",
       "name": "James Duckworth",
       "avatar": "avatar_duckworth",
-      "ranking": { "current": 95, "seasonDelta": 5, "trend": "up" },
+      "ranking": {
+        "current": 95,
+        "seasonDelta": 5,
+        "trend": "stable"
+      },
       "playStyleId": "servebot",
-      "temperament": ["много эйсов", "мощная подача", "короткие розыгрыши"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/james-duckworth/d862/overview" },
+      "temperament": [
+        "много эйсов",
+        "мощная подача",
+        "короткие розыгрыши"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/james-duckworth/d862/overview"
+      },
       "ytdPoints": 280,
       "seasonPoints": 100
     },
@@ -1130,10 +2080,20 @@
       "id": "kypson",
       "name": "Patrick Kypson",
       "avatar": "avatar_kypson",
-      "ranking": { "current": 96, "seasonDelta": 104, "trend": "up" },
+      "ranking": {
+        "current": 96,
+        "seasonDelta": 104,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "мощный форхенд", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/patrick-kypson/k0pk/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "мощный форхенд",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/patrick-kypson/k0pk/overview"
+      },
       "ytdPoints": 380,
       "seasonPoints": 370
     },
@@ -1141,10 +2101,20 @@
       "id": "fearnley",
       "name": "Jacob Fearnley",
       "avatar": "avatar_fearnley",
-      "ranking": { "current": 97, "seasonDelta": 103, "trend": "up" },
+      "ranking": {
+        "current": 97,
+        "seasonDelta": 103,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "стабильность", "высокая выносливость"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/jacob-fearnley/f0jf/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "стабильность",
+        "высокая выносливость"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/jacob-fearnley/f0jf/overview"
+      },
       "ytdPoints": 370,
       "seasonPoints": 360
     },
@@ -1152,10 +2122,20 @@
       "id": "wawrinka",
       "name": "Stan Wawrinka",
       "avatar": "avatar_wawrinka",
-      "ranking": { "current": 98, "seasonDelta": 17, "trend": "up" },
+      "ranking": {
+        "current": 98,
+        "seasonDelta": 17,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["сильный бэкхенд", "уверенность под давлением", "плотный удар"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/stan-wawrinka/w344/overview" },
+      "temperament": [
+        "сильный бэкхенд",
+        "уверенность под давлением",
+        "плотный удар"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/stan-wawrinka/w344/overview"
+      },
       "ytdPoints": 320,
       "seasonPoints": 220
     },
@@ -1163,10 +2143,20 @@
       "id": "de_jong",
       "name": "Jesper De Jong",
       "avatar": "avatar_de_jong",
-      "ranking": { "current": 99, "seasonDelta": -11, "trend": "down" },
+      "ranking": {
+        "current": 99,
+        "seasonDelta": -11,
+        "trend": "stable"
+      },
       "playStyleId": "aggressive_baseliner",
-      "temperament": ["тактическая агрессия", "высокая выносливость", "стабильность"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/jesper-de-jong/d0jj/overview" },
+      "temperament": [
+        "тактическая агрессия",
+        "высокая выносливость",
+        "стабильность"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/jesper-de-jong/d0jj/overview"
+      },
       "ytdPoints": 240,
       "seasonPoints": -80
     },
@@ -1174,12 +2164,22 @@
       "id": "garin",
       "name": "Cristian Garin",
       "avatar": "avatar_garin",
-      "ranking": { "current": 100, "seasonDelta": -4, "trend": "down" },
+      "ranking": {
+        "current": 100,
+        "seasonDelta": -4,
+        "trend": "stable"
+      },
       "playStyleId": "grinder",
-      "temperament": ["длинные розыгрыши", "высокая выносливость", "физическое давление"],
-      "links": { "latestInterview": "https://www.atptour.com/en/players/cristian-garin/ge44/overview" },
-      "ytdPoints": 220,
-      "seasonPoints": -30
+      "temperament": [
+        "длинные розыгрыши",
+        "высокая выносливость",
+        "физическое давление"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/cristian-garin/ge44/overview"
+      },
+      "ytdPoints": 265,
+      "seasonPoints": 15
     }
   ],
   "matches": [
@@ -1406,7 +2406,9 @@
       "stage": "SF",
       "startAt": "2026-04-18T12:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming"
+      "status": "completed",
+      "result": "lost",
+      "score": "4-6, 6-2, 4-6"
     },
     {
       "id": "shelton_munich_sf_2026",
@@ -1416,7 +2418,9 @@
       "stage": "SF",
       "startAt": "2026-04-18T14:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming"
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-4"
     },
     {
       "id": "musetti_barcelona_r16_2026",
@@ -1462,7 +2466,9 @@
       "stage": "SF",
       "startAt": "2026-04-18T12:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming"
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 6-4"
     },
     {
       "id": "rublev_barcelona_sf_2026",
@@ -1472,6 +2478,554 @@
       "stage": "SF",
       "startAt": "2026-04-18T14:00:00+02:00",
       "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "7-5, 6-3"
+    },
+    {
+      "id": "shelton_munich_f_2026",
+      "playerId": "shelton",
+      "opponentId": "cobolli",
+      "tournament": "BMW Open Munich 2026",
+      "stage": "F",
+      "startAt": "2026-04-19T13:30:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 7-5"
+    },
+    {
+      "id": "cobolli_munich_qf_2026",
+      "playerId": "cobolli",
+      "opponentId": "zverev",
+      "tournament": "BMW Open Munich 2026",
+      "stage": "SF",
+      "startAt": "2026-04-18T12:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 2-6, 6-4"
+    },
+    {
+      "id": "cobolli_munich_f_2026",
+      "playerId": "cobolli",
+      "opponentId": "shelton",
+      "tournament": "BMW Open Munich 2026",
+      "stage": "F",
+      "startAt": "2026-04-19T13:30:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "lost",
+      "score": "2-6, 5-7"
+    },
+    {
+      "id": "fils_barcelona_f_2026",
+      "playerId": "fils",
+      "opponentId": "rublev",
+      "tournament": "Barcelona Open Banc Sabadell 2026",
+      "stage": "F",
+      "startAt": "2026-04-19T15:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 7-6(2)"
+    },
+    {
+      "id": "rublev_barcelona_f_2026",
+      "playerId": "rublev",
+      "opponentId": "fils",
+      "tournament": "Barcelona Open Banc Sabadell 2026",
+      "stage": "F",
+      "startAt": "2026-04-19T15:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "lost",
+      "score": "2-6, 6-7(2)"
+    },
+    {
+      "id": "sinner_madrid_qf_2026",
+      "playerId": "sinner",
+      "opponentId": "khachanov",
+      "tournament": "Mutua Madrid Open 2026",
+      "stage": "QF",
+      "startAt": "2026-04-30T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-4"
+    },
+    {
+      "id": "sinner_madrid_sf_2026",
+      "playerId": "sinner",
+      "opponentId": "fils",
+      "tournament": "Mutua Madrid Open 2026",
+      "stage": "SF",
+      "startAt": "2026-05-01T15:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 6-4"
+    },
+    {
+      "id": "sinner_madrid_f_2026",
+      "playerId": "sinner",
+      "opponentId": "zverev",
+      "tournament": "Mutua Madrid Open 2026",
+      "stage": "F",
+      "startAt": "2026-05-03T16:30:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-1, 6-2"
+    },
+    {
+      "id": "zverev_madrid_qf_2026",
+      "playerId": "zverev",
+      "opponentId": "rublev",
+      "tournament": "Mutua Madrid Open 2026",
+      "stage": "QF",
+      "startAt": "2026-04-30T15:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "7-5, 6-4"
+    },
+    {
+      "id": "zverev_madrid_sf_2026",
+      "playerId": "zverev",
+      "opponentId": "blockx",
+      "tournament": "Mutua Madrid Open 2026",
+      "stage": "SF",
+      "startAt": "2026-05-01T17:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 7-5"
+    },
+    {
+      "id": "zverev_madrid_f_2026",
+      "playerId": "zverev",
+      "opponentId": "sinner",
+      "tournament": "Mutua Madrid Open 2026",
+      "stage": "F",
+      "startAt": "2026-05-03T16:30:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "lost",
+      "score": "1-6, 2-6"
+    },
+    {
+      "id": "fils_madrid_sf_2026",
+      "playerId": "fils",
+      "opponentId": "sinner",
+      "tournament": "Mutua Madrid Open 2026",
+      "stage": "SF",
+      "startAt": "2026-05-01T15:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "lost",
+      "score": "2-6, 4-6"
+    },
+    {
+      "id": "blockx_madrid_sf_2026",
+      "playerId": "blockx",
+      "opponentId": "zverev",
+      "tournament": "Mutua Madrid Open 2026",
+      "stage": "SF",
+      "startAt": "2026-05-01T17:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "lost",
+      "score": "2-6, 5-7"
+    },
+    {
+      "id": "djokovic_rome_r64_2026",
+      "playerId": "djokovic",
+      "opponentId": "vacherot",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "lost",
+      "score": "6-2, 2-6, 4-6"
+    },
+    {
+      "id": "zverev_rome_r64_2026",
+      "playerId": "zverev",
+      "opponentId": "altmaier",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T15:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "7-5, 6-3"
+    },
+    {
+      "id": "musetti_rome_r64_2026",
+      "playerId": "musetti",
+      "opponentId": "mpetshi_perricard",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 6-4"
+    },
+    {
+      "id": "de_minaur_rome_r64_2026",
+      "playerId": "de_minaur",
+      "opponentId": "tien",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "lost",
+      "score": "6-4, 6-7(5), 4-6"
+    },
+    {
+      "id": "lehecka_rome_r64_2026",
+      "playerId": "lehecka",
+      "opponentId": "struff",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "7-6(4), 6-3"
+    },
+    {
+      "id": "khachanov_rome_r64_2026",
+      "playerId": "khachanov",
+      "opponentId": "shevchenko",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 6-4"
+    },
+    {
+      "id": "humbert_rome_r64_2026",
+      "playerId": "humbert",
+      "opponentId": "kopriva",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-2"
+    },
+    {
+      "id": "ruud_rome_r64_2026",
+      "playerId": "ruud",
+      "opponentId": "svajda",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-1, 6-3"
+    },
+    {
+      "id": "f_cerundolo_rome_r64_2026",
+      "playerId": "f_cerundolo",
+      "opponentId": "tabilo",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-0, 6-2"
+    },
+    {
+      "id": "bublik_rome_r64_2026",
+      "playerId": "bublik",
+      "opponentId": "baez",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-1, 6-2"
+    },
+    {
+      "id": "paul_rome_r64_2026",
+      "playerId": "paul",
+      "opponentId": "vukic",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 6-2"
+    },
+    {
+      "id": "darderi_rome_r64_2026",
+      "playerId": "darderi",
+      "opponentId": "hanfmann",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 6-4"
+    },
+    {
+      "id": "tien_rome_r64_2026",
+      "playerId": "tien",
+      "opponentId": "dzumhur",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 6-1"
+    },
+    {
+      "id": "blockx_rome_r64_2026",
+      "playerId": "blockx",
+      "opponentId": "griekspoor",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-7(5), 6-3, 6-4"
+    },
+    {
+      "id": "jodar_rome_r64_2026",
+      "playerId": "jodar",
+      "opponentId": "borges",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "7-6(4), 6-4"
+    },
+    {
+      "id": "van_de_zandschulp_rome_r64_2026",
+      "playerId": "van_de_zandschulp",
+      "opponentId": "kovacevic",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-09T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "2-6, 6-2, 7-6(5)"
+    },
+    {
+      "id": "machac_rome_r128_2026",
+      "playerId": "machac",
+      "opponentId": "tsitsipas",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R128",
+      "startAt": "2026-05-08T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 7-6(4)"
+    },
+    {
+      "id": "tsitsipas_rome_r128_2026",
+      "playerId": "tsitsipas",
+      "opponentId": "machac",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R128",
+      "startAt": "2026-05-08T11:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "lost",
+      "score": "4-6, 6-7(4)"
+    },
+    {
+      "id": "popyrin_rome_r128_2026",
+      "playerId": "popyrin",
+      "opponentId": "berrettini",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R128",
+      "startAt": "2026-05-08T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 6-3"
+    },
+    {
+      "id": "berrettini_rome_r128_2026",
+      "playerId": "berrettini",
+      "opponentId": "popyrin",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R128",
+      "startAt": "2026-05-08T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "lost",
+      "score": "2-6, 3-6"
+    },
+    {
+      "id": "sinner_rome_r64_2026",
+      "playerId": "sinner",
+      "opponentId": "ofner",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "auger_aliassime_rome_r64_2026",
+      "playerId": "auger_aliassime",
+      "opponentId": "navone",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "shelton_rome_r64_2026",
+      "playerId": "shelton",
+      "opponentId": "machac",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "medvedev_rome_r64_2026",
+      "playerId": "medvedev",
+      "opponentId": "machac",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "fritz_rome_r64_2026",
+      "playerId": "fritz",
+      "opponentId": "etcheverry",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "fils_rome_r64_2026",
+      "playerId": "fils",
+      "opponentId": "moutet",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "cobolli_rome_r64_2026",
+      "playerId": "cobolli",
+      "opponentId": "atmane",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "rublev_rome_r64_2026",
+      "playerId": "rublev",
+      "opponentId": "kecmanovic",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "fonseca_rome_r64_2026",
+      "playerId": "fonseca",
+      "opponentId": "medjedovic",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "mensik_rome_r64_2026",
+      "playerId": "mensik",
+      "opponentId": "popyrin",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "norrie_rome_r64_2026",
+      "playerId": "norrie",
+      "opponentId": "tirante",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "tiafoe_rome_r64_2026",
+      "playerId": "tiafoe",
+      "opponentId": "buse",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "moutet_rome_r64_2026",
+      "playerId": "moutet",
+      "opponentId": "rune",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "davidovich_fokina_rome_r64_2026",
+      "playerId": "davidovich_fokina",
+      "opponentId": "garin",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming"
+    },
+    {
+      "id": "nakashima_rome_r64_2026",
+      "playerId": "nakashima",
+      "opponentId": "bautista_agut",
+      "tournament": "Internazionali BNL d'Italia 2026",
+      "stage": "R64",
+      "startAt": "2026-05-10T11:00:00+02:00",
+      "surface": "clay",
       "status": "upcoming"
     }
   ],
@@ -1479,52 +3033,159 @@
     {
       "playerId": "alcaraz",
       "nextMatchId": null,
-      "lastMatchIds": ["alcaraz_mc_f_2026", "alcaraz_mc_sf_2026", "alcaraz_mc_qf_2026"]
+      "lastMatchIds": [
+        "alcaraz_mc_f_2026",
+        "alcaraz_mc_sf_2026",
+        "alcaraz_mc_qf_2026"
+      ]
     },
     {
       "playerId": "sinner",
-      "nextMatchId": null,
-      "lastMatchIds": ["sinner_mc_f_2026", "sinner_mc_sf_2026", "sinner_mc_qf_2026"]
+      "nextMatchId": "sinner_rome_r64_2026",
+      "lastMatchIds": [
+        "sinner_madrid_f_2026",
+        "sinner_madrid_sf_2026",
+        "sinner_madrid_qf_2026"
+      ]
     },
     {
       "playerId": "djokovic",
       "nextMatchId": null,
-      "lastMatchIds": []
+      "lastMatchIds": [
+        "djokovic_rome_r64_2026"
+      ]
     },
     {
       "playerId": "zverev",
-      "nextMatchId": "zverev_munich_sf_2026",
-      "lastMatchIds": ["zverev_munich_qf_2026", "zverev_mc_sf_2026", "zverev_mc_qf_2026"]
+      "nextMatchId": null,
+      "lastMatchIds": [
+        "zverev_rome_r64_2026",
+        "zverev_madrid_f_2026",
+        "zverev_madrid_sf_2026"
+      ]
     },
     {
       "playerId": "musetti",
       "nextMatchId": null,
-      "lastMatchIds": ["musetti_barcelona_qf_2026", "musetti_barcelona_r16_2026", "musetti_mc_r2_2026"]
+      "lastMatchIds": [
+        "musetti_rome_r64_2026",
+        "musetti_barcelona_qf_2026",
+        "musetti_barcelona_r16_2026"
+      ]
     },
     {
       "playerId": "bublik",
       "nextMatchId": null,
-      "lastMatchIds": ["bublik_munich_r16_2026", "bublik_mc_qf_2026", "bublik_mc_r2_2026"]
+      "lastMatchIds": [
+        "bublik_rome_r64_2026",
+        "bublik_munich_r16_2026",
+        "bublik_mc_qf_2026"
+      ]
     },
     {
       "playerId": "medvedev",
-      "nextMatchId": null,
-      "lastMatchIds": ["medvedev_mc_r2_2026"]
+      "nextMatchId": "medvedev_rome_r64_2026",
+      "lastMatchIds": [
+        "medvedev_mc_r2_2026"
+      ]
     },
     {
       "playerId": "shelton",
-      "nextMatchId": "shelton_munich_sf_2026",
-      "lastMatchIds": ["shelton_munich_qf_2026"]
+      "nextMatchId": "shelton_rome_r64_2026",
+      "lastMatchIds": [
+        "shelton_munich_f_2026",
+        "shelton_munich_sf_2026",
+        "shelton_munich_qf_2026"
+      ]
     },
     {
       "playerId": "rublev",
-      "nextMatchId": "rublev_barcelona_sf_2026",
-      "lastMatchIds": ["rublev_barcelona_qf_2026"]
+      "nextMatchId": "rublev_rome_r64_2026",
+      "lastMatchIds": [
+        "rublev_barcelona_f_2026",
+        "rublev_barcelona_sf_2026",
+        "rublev_barcelona_qf_2026"
+      ]
     },
     {
       "playerId": "fils",
-      "nextMatchId": "fils_barcelona_sf_2026",
-      "lastMatchIds": ["musetti_barcelona_qf_2026"]
+      "nextMatchId": "fils_rome_r64_2026",
+      "lastMatchIds": [
+        "fils_barcelona_f_2026",
+        "fils_barcelona_sf_2026",
+        "fils_madrid_sf_2026"
+      ]
+    },
+    {
+      "playerId": "auger_aliassime",
+      "nextMatchId": "auger_aliassime_rome_r64_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "fritz",
+      "nextMatchId": "fritz_rome_r64_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "de_minaur",
+      "nextMatchId": null,
+      "lastMatchIds": [
+        "de_minaur_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "cobolli",
+      "nextMatchId": "cobolli_rome_r64_2026",
+      "lastMatchIds": [
+        "cobolli_munich_f_2026",
+        "cobolli_munich_qf_2026"
+      ]
+    },
+    {
+      "playerId": "blockx",
+      "nextMatchId": null,
+      "lastMatchIds": [
+        "blockx_rome_r64_2026",
+        "blockx_madrid_sf_2026"
+      ]
+    },
+    {
+      "playerId": "fonseca",
+      "nextMatchId": "fonseca_rome_r64_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "mensik",
+      "nextMatchId": "mensik_rome_r64_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "tsitsipas",
+      "nextMatchId": null,
+      "lastMatchIds": [
+        "tsitsipas_rome_r128_2026"
+      ]
+    },
+    {
+      "playerId": "berrettini",
+      "nextMatchId": null,
+      "lastMatchIds": [
+        "berrettini_rome_r128_2026"
+      ]
+    },
+    {
+      "playerId": "machac",
+      "nextMatchId": "medvedev_rome_r64_2026",
+      "lastMatchIds": [
+        "machac_rome_r128_2026"
+      ]
+    },
+    {
+      "playerId": "popyrin",
+      "nextMatchId": "mensik_rome_r64_2026",
+      "lastMatchIds": [
+        "popyrin_rome_r128_2026"
+      ]
     }
   ],
   "tournaments": [
@@ -1534,229 +3195,747 @@
       "status": "completed",
       "winner": "sinner",
       "finalist": "alcaraz",
-      "dates": { "start": "2026-04-05", "end": "2026-04-12" },
+      "dates": {
+        "start": "2026-04-05",
+        "end": "2026-04-12"
+      },
       "courtType": "clay",
       "players": [
-        "alcaraz", "sinner", "zverev", "djokovic", "musetti", "de_minaur",
-        "auger_aliassime", "medvedev", "bublik", "ruud", "cobolli", "lehecka",
-        "khachanov", "rublev", "davidovich_fokina", "darderi", "f_cerundolo",
-        "paul", "draper", "mensik", "fils", "rune", "griekspoor", "etcheverry",
-        "moutet", "humbert", "michelsen", "munar", "tabilo", "fonseca",
-        "baez", "marozsan", "borges", "tsitsipas", "nakashima", "tiafoe"
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "djokovic",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "medvedev",
+        "bublik",
+        "ruud",
+        "cobolli",
+        "lehecka",
+        "khachanov",
+        "rublev",
+        "davidovich_fokina",
+        "darderi",
+        "f_cerundolo",
+        "paul",
+        "draper",
+        "mensik",
+        "fils",
+        "rune",
+        "griekspoor",
+        "etcheverry",
+        "moutet",
+        "humbert",
+        "michelsen",
+        "munar",
+        "tabilo",
+        "fonseca",
+        "baez",
+        "marozsan",
+        "borges",
+        "tsitsipas",
+        "nakashima",
+        "tiafoe"
       ]
     },
     {
       "tournament": "barcelona",
       "name": "Barcelona Open Banc Sabadell",
-      "status": "ongoing",
-      "dates": { "start": "2026-04-13", "end": "2026-04-19" },
+      "status": "completed",
+      "dates": {
+        "start": "2026-04-13",
+        "end": "2026-04-19"
+      },
       "courtType": "clay",
       "players": [
-        "alcaraz", "sinner", "zverev", "musetti", "de_minaur", "auger_aliassime",
-        "cobolli", "lehecka", "rublev", "davidovich_fokina", "darderi", "f_cerundolo",
-        "paul", "draper", "mensik", "fils", "rune", "griekspoor", "etcheverry",
-        "moutet", "michelsen", "munar", "tabilo", "fonseca", "baez", "tsitsipas"
-      ]
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "cobolli",
+        "lehecka",
+        "rublev",
+        "davidovich_fokina",
+        "darderi",
+        "f_cerundolo",
+        "paul",
+        "draper",
+        "mensik",
+        "fils",
+        "rune",
+        "griekspoor",
+        "etcheverry",
+        "moutet",
+        "michelsen",
+        "munar",
+        "tabilo",
+        "fonseca",
+        "baez",
+        "tsitsipas"
+      ],
+      "winner": "fils",
+      "finalist": "rublev"
     },
     {
       "tournament": "munich",
       "name": "BMW Open by Bitpanda",
-      "status": "ongoing",
-      "dates": { "start": "2026-04-13", "end": "2026-04-19" },
+      "status": "completed",
+      "dates": {
+        "start": "2026-04-13",
+        "end": "2026-04-19"
+      },
       "courtType": "clay",
       "players": [
-        "zverev", "khachanov", "rinderknech", "norrie", "nakashima", "shapovalov",
-        "humbert", "griekspoor", "bergs", "marozsan", "fucsovics", "altmaier",
-        "struff", "van_de_zandschulp", "sonego", "majchrzak", "hanfmann"
-      ]
+        "zverev",
+        "khachanov",
+        "rinderknech",
+        "norrie",
+        "nakashima",
+        "shapovalov",
+        "humbert",
+        "griekspoor",
+        "bergs",
+        "marozsan",
+        "fucsovics",
+        "altmaier",
+        "struff",
+        "van_de_zandschulp",
+        "sonego",
+        "majchrzak",
+        "hanfmann"
+      ],
+      "winner": "shelton",
+      "finalist": "cobolli"
     },
     {
       "tournament": "madrid",
       "name": "Mutua Madrid Open",
-      "dates": { "start": "2026-04-22", "end": "2026-05-03" },
+      "dates": {
+        "start": "2026-04-22",
+        "end": "2026-05-03"
+      },
       "courtType": "clay",
       "players": [
-        "alcaraz", "sinner", "zverev", "djokovic", "musetti", "de_minaur",
-        "auger_aliassime", "fritz", "shelton", "medvedev", "bublik", "ruud",
-        "cobolli", "lehecka", "khachanov", "rublev", "davidovich_fokina",
-        "tiafoe", "darderi", "f_cerundolo", "paul", "draper", "mensik",
-        "fils", "rune", "griekspoor", "etcheverry", "moutet", "michelsen",
-        "tabilo", "fonseca", "tsitsipas", "baez", "nakashima", "humbert"
-      ]
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "djokovic",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "fritz",
+        "shelton",
+        "medvedev",
+        "bublik",
+        "ruud",
+        "cobolli",
+        "lehecka",
+        "khachanov",
+        "rublev",
+        "davidovich_fokina",
+        "tiafoe",
+        "darderi",
+        "f_cerundolo",
+        "paul",
+        "draper",
+        "mensik",
+        "fils",
+        "rune",
+        "griekspoor",
+        "etcheverry",
+        "moutet",
+        "michelsen",
+        "tabilo",
+        "fonseca",
+        "tsitsipas",
+        "baez",
+        "nakashima",
+        "humbert"
+      ],
+      "status": "completed",
+      "winner": "sinner",
+      "finalist": "zverev"
     },
     {
       "tournament": "rome",
       "name": "Internazionali BNL d'Italia",
-      "dates": { "start": "2026-05-07", "end": "2026-05-17" },
+      "dates": {
+        "start": "2026-05-07",
+        "end": "2026-05-17"
+      },
       "courtType": "clay",
       "players": [
-        "alcaraz", "sinner", "zverev", "djokovic", "musetti", "de_minaur",
-        "auger_aliassime", "fritz", "shelton", "medvedev", "bublik", "ruud",
-        "cobolli", "lehecka", "khachanov", "rublev", "davidovich_fokina",
-        "tiafoe", "darderi", "f_cerundolo", "paul", "mensik", "fils",
-        "rune", "etcheverry", "tabilo", "fonseca", "tsitsipas", "baez",
-        "sonego", "bellucci", "berrettini", "nakashima"
-      ]
+        "sinner",
+        "zverev",
+        "djokovic",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "fritz",
+        "shelton",
+        "medvedev",
+        "bublik",
+        "ruud",
+        "cobolli",
+        "lehecka",
+        "khachanov",
+        "rublev",
+        "davidovich_fokina",
+        "tiafoe",
+        "darderi",
+        "f_cerundolo",
+        "paul",
+        "mensik",
+        "fils",
+        "rune",
+        "etcheverry",
+        "tabilo",
+        "fonseca",
+        "tsitsipas",
+        "baez",
+        "sonego",
+        "bellucci",
+        "berrettini",
+        "nakashima"
+      ],
+      "status": "ongoing"
     },
     {
       "tournament": "roland_garros",
       "name": "Roland Garros",
-      "dates": { "start": "2026-05-24", "end": "2026-06-07" },
+      "dates": {
+        "start": "2026-05-24",
+        "end": "2026-06-07"
+      },
       "courtType": "clay",
       "players": [
-        "alcaraz", "sinner", "zverev", "djokovic", "musetti", "de_minaur",
-        "auger_aliassime", "fritz", "shelton", "medvedev", "bublik", "ruud",
-        "cobolli", "lehecka", "khachanov", "rublev", "davidovich_fokina",
-        "tiafoe", "darderi", "f_cerundolo", "paul", "tien", "vacherot",
-        "norrie", "draper", "mensik", "rinderknech", "fils", "rune",
-        "griekspoor", "etcheverry", "moutet", "nakashima", "humbert",
-        "michelsen", "diallo", "munar", "shapovalov", "tabilo", "fonseca",
-        "brooksby", "korda", "mannarino", "popyrin", "bergs", "marozsan",
-        "borges", "tsitsipas", "baez", "fucsovics", "altmaier", "majchrzak",
-        "cilic", "machac", "mpetshi_perricard", "kecmanovic", "navone",
-        "van_de_zandschulp", "sonego", "collignon", "munar", "ugo_carabelli",
-        "jm_cerundolo", "hurkacz", "bellucci", "struff", "carreno_busta", "garin"
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "djokovic",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "fritz",
+        "shelton",
+        "medvedev",
+        "bublik",
+        "ruud",
+        "cobolli",
+        "lehecka",
+        "khachanov",
+        "rublev",
+        "davidovich_fokina",
+        "tiafoe",
+        "darderi",
+        "f_cerundolo",
+        "paul",
+        "tien",
+        "vacherot",
+        "norrie",
+        "draper",
+        "mensik",
+        "rinderknech",
+        "fils",
+        "rune",
+        "griekspoor",
+        "etcheverry",
+        "moutet",
+        "nakashima",
+        "humbert",
+        "michelsen",
+        "diallo",
+        "munar",
+        "shapovalov",
+        "tabilo",
+        "fonseca",
+        "brooksby",
+        "korda",
+        "mannarino",
+        "popyrin",
+        "bergs",
+        "marozsan",
+        "borges",
+        "tsitsipas",
+        "baez",
+        "fucsovics",
+        "altmaier",
+        "majchrzak",
+        "cilic",
+        "machac",
+        "mpetshi_perricard",
+        "kecmanovic",
+        "navone",
+        "van_de_zandschulp",
+        "sonego",
+        "collignon",
+        "munar",
+        "ugo_carabelli",
+        "jm_cerundolo",
+        "hurkacz",
+        "bellucci",
+        "struff",
+        "carreno_busta",
+        "garin"
       ]
     },
     {
       "tournament": "halle",
       "name": "Terra Wortmann Open",
-      "dates": { "start": "2026-06-15", "end": "2026-06-21" },
+      "dates": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
       "courtType": "grass",
       "players": [
-        "zverev", "auger_aliassime", "fritz", "shelton", "bublik", "lehecka",
-        "khachanov", "tiafoe", "paul", "draper", "mensik", "fils", "rune",
-        "griekspoor", "humbert", "michelsen", "diallo", "shapovalov", "korda",
-        "mannarino", "popyrin", "machac", "mpetshi_perricard", "struff", "hurkacz"
+        "zverev",
+        "auger_aliassime",
+        "fritz",
+        "shelton",
+        "bublik",
+        "lehecka",
+        "khachanov",
+        "tiafoe",
+        "paul",
+        "draper",
+        "mensik",
+        "fils",
+        "rune",
+        "griekspoor",
+        "humbert",
+        "michelsen",
+        "diallo",
+        "shapovalov",
+        "korda",
+        "mannarino",
+        "popyrin",
+        "machac",
+        "mpetshi_perricard",
+        "struff",
+        "hurkacz"
       ]
     },
     {
       "tournament": "queens_club",
       "name": "cinch Championships",
-      "dates": { "start": "2026-06-15", "end": "2026-06-21" },
+      "dates": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
       "courtType": "grass",
       "players": [
-        "alcaraz", "de_minaur", "medvedev", "ruud", "rublev", "norrie",
-        "draper", "nakashima", "moutet", "tabilo", "fonseca", "brooksby",
-        "bergs", "tsitsipas", "fucsovics", "altmaier", "van_de_zandschulp",
-        "sonego", "collignon", "giron", "fearnley"
+        "alcaraz",
+        "de_minaur",
+        "medvedev",
+        "ruud",
+        "rublev",
+        "norrie",
+        "draper",
+        "nakashima",
+        "moutet",
+        "tabilo",
+        "fonseca",
+        "brooksby",
+        "bergs",
+        "tsitsipas",
+        "fucsovics",
+        "altmaier",
+        "van_de_zandschulp",
+        "sonego",
+        "collignon",
+        "giron",
+        "fearnley"
       ]
     },
     {
       "tournament": "wimbledon",
       "name": "The Championships, Wimbledon",
-      "dates": { "start": "2026-06-29", "end": "2026-07-12" },
+      "dates": {
+        "start": "2026-06-29",
+        "end": "2026-07-12"
+      },
       "courtType": "grass",
       "players": [
-        "alcaraz", "sinner", "zverev", "djokovic", "musetti", "de_minaur",
-        "auger_aliassime", "fritz", "shelton", "medvedev", "bublik", "ruud",
-        "cobolli", "lehecka", "khachanov", "rublev", "tiafoe", "darderi",
-        "f_cerundolo", "paul", "tien", "norrie", "draper", "mensik",
-        "rinderknech", "fils", "rune", "griekspoor", "moutet", "nakashima",
-        "humbert", "michelsen", "diallo", "shapovalov", "tabilo", "fonseca",
-        "brooksby", "korda", "mannarino", "popyrin", "tsitsipas", "machac",
-        "mpetshi_perricard", "van_de_zandschulp", "sonego", "opelka",
-        "hurkacz", "struff", "wawrinka", "fearnley", "berrettini", "dimitrov"
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "djokovic",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "fritz",
+        "shelton",
+        "medvedev",
+        "bublik",
+        "ruud",
+        "cobolli",
+        "lehecka",
+        "khachanov",
+        "rublev",
+        "tiafoe",
+        "darderi",
+        "f_cerundolo",
+        "paul",
+        "tien",
+        "norrie",
+        "draper",
+        "mensik",
+        "rinderknech",
+        "fils",
+        "rune",
+        "griekspoor",
+        "moutet",
+        "nakashima",
+        "humbert",
+        "michelsen",
+        "diallo",
+        "shapovalov",
+        "tabilo",
+        "fonseca",
+        "brooksby",
+        "korda",
+        "mannarino",
+        "popyrin",
+        "tsitsipas",
+        "machac",
+        "mpetshi_perricard",
+        "van_de_zandschulp",
+        "sonego",
+        "opelka",
+        "hurkacz",
+        "struff",
+        "wawrinka",
+        "fearnley",
+        "berrettini",
+        "dimitrov"
       ]
     },
     {
       "tournament": "washington",
       "name": "Mubadala Citi DC Open",
-      "dates": { "start": "2026-07-27", "end": "2026-08-02" },
+      "dates": {
+        "start": "2026-07-27",
+        "end": "2026-08-02"
+      },
       "courtType": "hard",
       "players": [
-        "shelton", "fritz", "tiafoe", "paul", "tien", "draper", "michelsen",
-        "diallo", "fonseca", "brooksby", "korda", "nakashima", "giron",
-        "svajda", "kovacevic", "kypson", "spizzirri", "quinn"
+        "shelton",
+        "fritz",
+        "tiafoe",
+        "paul",
+        "tien",
+        "draper",
+        "michelsen",
+        "diallo",
+        "fonseca",
+        "brooksby",
+        "korda",
+        "nakashima",
+        "giron",
+        "svajda",
+        "kovacevic",
+        "kypson",
+        "spizzirri",
+        "quinn"
       ]
     },
     {
       "tournament": "canada",
       "name": "National Bank Open",
-      "dates": { "start": "2026-08-02", "end": "2026-08-12" },
+      "dates": {
+        "start": "2026-08-02",
+        "end": "2026-08-12"
+      },
       "courtType": "hard",
       "players": [
-        "alcaraz", "sinner", "zverev", "djokovic", "musetti", "de_minaur",
-        "auger_aliassime", "fritz", "shelton", "medvedev", "bublik", "ruud",
-        "cobolli", "lehecka", "khachanov", "rublev", "tiafoe", "darderi",
-        "f_cerundolo", "paul", "tien", "norrie", "draper", "mensik",
-        "fils", "rune", "griekspoor", "nakashima", "humbert", "michelsen",
-        "diallo", "shapovalov", "tabilo", "fonseca", "korda", "tsitsipas",
-        "hurkacz", "dimitrov", "wawrinka", "berrettini"
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "djokovic",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "fritz",
+        "shelton",
+        "medvedev",
+        "bublik",
+        "ruud",
+        "cobolli",
+        "lehecka",
+        "khachanov",
+        "rublev",
+        "tiafoe",
+        "darderi",
+        "f_cerundolo",
+        "paul",
+        "tien",
+        "norrie",
+        "draper",
+        "mensik",
+        "fils",
+        "rune",
+        "griekspoor",
+        "nakashima",
+        "humbert",
+        "michelsen",
+        "diallo",
+        "shapovalov",
+        "tabilo",
+        "fonseca",
+        "korda",
+        "tsitsipas",
+        "hurkacz",
+        "dimitrov",
+        "wawrinka",
+        "berrettini"
       ]
     },
     {
       "tournament": "cincinnati",
       "name": "Western & Southern Open",
-      "dates": { "start": "2026-08-13", "end": "2026-08-23" },
+      "dates": {
+        "start": "2026-08-13",
+        "end": "2026-08-23"
+      },
       "courtType": "hard",
       "players": [
-        "alcaraz", "sinner", "zverev", "djokovic", "musetti", "de_minaur",
-        "auger_aliassime", "fritz", "shelton", "medvedev", "bublik", "ruud",
-        "cobolli", "lehecka", "khachanov", "rublev", "tiafoe", "darderi",
-        "paul", "tien", "norrie", "draper", "mensik", "fils", "rune",
-        "griekspoor", "nakashima", "humbert", "michelsen", "shapovalov",
-        "tabilo", "fonseca", "korda", "tsitsipas", "hurkacz", "dimitrov",
-        "berrettini", "opelka", "mannarino"
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "djokovic",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "fritz",
+        "shelton",
+        "medvedev",
+        "bublik",
+        "ruud",
+        "cobolli",
+        "lehecka",
+        "khachanov",
+        "rublev",
+        "tiafoe",
+        "darderi",
+        "paul",
+        "tien",
+        "norrie",
+        "draper",
+        "mensik",
+        "fils",
+        "rune",
+        "griekspoor",
+        "nakashima",
+        "humbert",
+        "michelsen",
+        "shapovalov",
+        "tabilo",
+        "fonseca",
+        "korda",
+        "tsitsipas",
+        "hurkacz",
+        "dimitrov",
+        "berrettini",
+        "opelka",
+        "mannarino"
       ]
     },
     {
       "tournament": "us_open",
       "name": "US Open",
-      "dates": { "start": "2026-08-31", "end": "2026-09-13" },
+      "dates": {
+        "start": "2026-08-31",
+        "end": "2026-09-13"
+      },
       "courtType": "hard",
       "players": [
-        "alcaraz", "sinner", "zverev", "djokovic", "musetti", "de_minaur",
-        "auger_aliassime", "fritz", "shelton", "medvedev", "bublik", "ruud",
-        "cobolli", "lehecka", "khachanov", "rublev", "davidovich_fokina",
-        "tiafoe", "darderi", "f_cerundolo", "paul", "tien", "vacherot",
-        "norrie", "draper", "mensik", "rinderknech", "fils", "rune",
-        "griekspoor", "etcheverry", "moutet", "nakashima", "humbert",
-        "michelsen", "diallo", "shapovalov", "tabilo", "fonseca",
-        "brooksby", "korda", "mannarino", "atmane", "popyrin", "bergs",
-        "borges", "tsitsipas", "fucsovics", "machac", "quinn",
-        "mpetshi_perricard", "kecmanovic", "van_de_zandschulp", "sonego",
-        "opelka", "hurkacz", "bellucci", "struff", "wawrinka", "dimitrov",
-        "berrettini", "giron", "svajda", "kypson", "fearnley", "spizzirri"
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "djokovic",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "fritz",
+        "shelton",
+        "medvedev",
+        "bublik",
+        "ruud",
+        "cobolli",
+        "lehecka",
+        "khachanov",
+        "rublev",
+        "davidovich_fokina",
+        "tiafoe",
+        "darderi",
+        "f_cerundolo",
+        "paul",
+        "tien",
+        "vacherot",
+        "norrie",
+        "draper",
+        "mensik",
+        "rinderknech",
+        "fils",
+        "rune",
+        "griekspoor",
+        "etcheverry",
+        "moutet",
+        "nakashima",
+        "humbert",
+        "michelsen",
+        "diallo",
+        "shapovalov",
+        "tabilo",
+        "fonseca",
+        "brooksby",
+        "korda",
+        "mannarino",
+        "atmane",
+        "popyrin",
+        "bergs",
+        "borges",
+        "tsitsipas",
+        "fucsovics",
+        "machac",
+        "quinn",
+        "mpetshi_perricard",
+        "kecmanovic",
+        "van_de_zandschulp",
+        "sonego",
+        "opelka",
+        "hurkacz",
+        "bellucci",
+        "struff",
+        "wawrinka",
+        "dimitrov",
+        "berrettini",
+        "giron",
+        "svajda",
+        "kypson",
+        "fearnley",
+        "spizzirri"
       ]
     },
     {
       "tournament": "shanghai",
       "name": "Rolex Shanghai Masters",
-      "dates": { "start": "2026-10-07", "end": "2026-10-18" },
+      "dates": {
+        "start": "2026-10-07",
+        "end": "2026-10-18"
+      },
       "courtType": "hard",
       "players": [
-        "alcaraz", "sinner", "zverev", "djokovic", "musetti", "de_minaur",
-        "auger_aliassime", "fritz", "shelton", "medvedev", "bublik", "ruud",
-        "cobolli", "lehecka", "khachanov", "rublev", "tiafoe", "darderi",
-        "paul", "tien", "norrie", "draper", "mensik", "fils", "rune",
-        "griekspoor", "nakashima", "humbert", "tabilo", "fonseca",
-        "korda", "popyrin", "tsitsipas", "hurkacz", "dimitrov", "berrettini"
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "djokovic",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "fritz",
+        "shelton",
+        "medvedev",
+        "bublik",
+        "ruud",
+        "cobolli",
+        "lehecka",
+        "khachanov",
+        "rublev",
+        "tiafoe",
+        "darderi",
+        "paul",
+        "tien",
+        "norrie",
+        "draper",
+        "mensik",
+        "fils",
+        "rune",
+        "griekspoor",
+        "nakashima",
+        "humbert",
+        "tabilo",
+        "fonseca",
+        "korda",
+        "popyrin",
+        "tsitsipas",
+        "hurkacz",
+        "dimitrov",
+        "berrettini"
       ]
     },
     {
       "tournament": "paris_masters",
       "name": "Rolex Paris Masters",
-      "dates": { "start": "2026-11-02", "end": "2026-11-15" },
+      "dates": {
+        "start": "2026-11-02",
+        "end": "2026-11-15"
+      },
       "courtType": "indoor_hard",
       "players": [
-        "alcaraz", "sinner", "zverev", "djokovic", "musetti", "de_minaur",
-        "auger_aliassime", "fritz", "shelton", "medvedev", "bublik", "ruud",
-        "cobolli", "lehecka", "khachanov", "rublev", "tiafoe", "paul",
-        "tien", "norrie", "draper", "mensik", "rinderknech", "fils", "rune",
-        "griekspoor", "nakashima", "humbert", "michelsen", "diallo",
-        "shapovalov", "fonseca", "korda", "mannarino", "popyrin", "hurkacz",
-        "berrettini", "dimitrov", "wawrinka", "opelka", "struff"
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "djokovic",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "fritz",
+        "shelton",
+        "medvedev",
+        "bublik",
+        "ruud",
+        "cobolli",
+        "lehecka",
+        "khachanov",
+        "rublev",
+        "tiafoe",
+        "paul",
+        "tien",
+        "norrie",
+        "draper",
+        "mensik",
+        "rinderknech",
+        "fils",
+        "rune",
+        "griekspoor",
+        "nakashima",
+        "humbert",
+        "michelsen",
+        "diallo",
+        "shapovalov",
+        "fonseca",
+        "korda",
+        "mannarino",
+        "popyrin",
+        "hurkacz",
+        "berrettini",
+        "dimitrov",
+        "wawrinka",
+        "opelka",
+        "struff"
       ]
     },
     {
       "tournament": "atp_finals",
       "name": "Nitto ATP Finals",
-      "dates": { "start": "2026-11-15", "end": "2026-11-22" },
+      "dates": {
+        "start": "2026-11-15",
+        "end": "2026-11-22"
+      },
       "courtType": "indoor_hard",
       "players": [
-        "alcaraz", "sinner", "zverev", "djokovic", "musetti", "de_minaur",
-        "auger_aliassime", "shelton"
+        "alcaraz",
+        "sinner",
+        "zverev",
+        "djokovic",
+        "musetti",
+        "de_minaur",
+        "auger_aliassime",
+        "shelton"
       ]
     }
   ]
