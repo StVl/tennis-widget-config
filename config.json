@@ -2186,12 +2186,12 @@
     {
       "id": "alcaraz_mc_r2_2026",
       "playerId": "alcaraz",
-      "opponentId": "etcheverry",
+      "opponentId": "sinner",
       "tournament": "Monte-Carlo Masters 2026",
       "stage": "R16",
-      "startAt": "2026-04-08T11:00:00+02:00",
+      "startAt": "2026-05-23T16:00:00+02:00",
       "surface": "clay",
-      "status": "completed",
+      "status": "upcoming",
       "result": "won",
       "score": "6-1, 4-6, 6-3"
     },
