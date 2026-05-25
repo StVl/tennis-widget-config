@@ -2180,6 +2180,28 @@
       },
       "ytdPoints": 265,
       "seasonPoints": 15
+    },
+    {
+      "id": "tabur",
+      "name": "Clement Tabur",
+      "avatar": "avatar_tabur",
+      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/tabur.jpg",
+      "ranking": {
+        "current": 167,
+        "seasonDelta": 50,
+        "trend": "up"
+      },
+      "playStyleId": "aggressive_baseliner",
+      "temperament": [
+        "двуручный бэкхенд",
+        "хорошо играет на грунте",
+        "уверенный с задней линии"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/clement-tabur/overview"
+      },
+      "ytdPoints": 360,
+      "seasonPoints": 250
     }
   ],
   "matches": [
@@ -3909,6 +3931,30 @@
       "status": "upcoming",
       "result": "",
       "score": ""
+    },
+    {
+      "id": "sinner_rg_r1_2026",
+      "playerId": "sinner",
+      "opponentId": "tabur",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "tabur_rg_r1_2026",
+      "playerId": "tabur",
+      "opponentId": "sinner",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T11:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
     }
   ],
   "playerCards": [
@@ -3923,7 +3969,7 @@
     },
     {
       "playerId": "sinner",
-      "nextMatchId": null,
+      "nextMatchId": "sinner_rg_r1_2026",
       "lastMatchIds": [
         "sinner_rome_f_2026",
         "sinner_rome_sf_2026",
@@ -4377,7 +4423,8 @@
         "bellucci",
         "struff",
         "carreno_busta",
-        "garin"
+        "garin",
+        "tabur"
       ],
       "status": "ongoing"
     },
