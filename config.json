@@ -2202,6 +2202,28 @@
       },
       "ytdPoints": 360,
       "seasonPoints": 250
+    },
+    {
+      "id": "walton",
+      "name": "Adam Walton",
+      "avatar": "avatar_walton",
+      "avatar_url": "https://github.com/StVl/tennis-widget-config/blob/main/walton.jpg",
+      "ranking": {
+        "current": 97,
+        "seasonDelta": 5,
+        "trend": "stable"
+      },
+      "playStyleId": "all_court",
+      "temperament": [
+        "выход к сетке",
+        "разнообразие",
+        "обыграл Медведева в Цинциннати 2025"
+      ],
+      "links": {
+        "latestInterview": "https://www.atptour.com/en/players/adam-walton/overview"
+      },
+      "ytdPoints": 380,
+      "seasonPoints": 200
     }
   ],
   "matches": [
@@ -4199,7 +4221,7 @@
     {
       "id": "medvedev_rg_r1_2026",
       "playerId": "medvedev",
-      "opponentId": "TBD",
+      "opponentId": "walton",
       "tournament": "Roland Garros 2026",
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
@@ -4611,6 +4633,18 @@
       "tournament": "Roland Garros 2026",
       "stage": "R64",
       "startAt": "2026-05-28T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "walton_rg_r1_2026",
+      "playerId": "walton",
+      "opponentId": "medvedev",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
       "status": "upcoming",
       "result": "",
@@ -5247,6 +5281,11 @@
       "playerId": "garin",
       "nextMatchId": "garin_rg_r1_2026",
       "lastMatchIds": []
+    },
+    {
+      "playerId": "walton",
+      "nextMatchId": "walton_rg_r1_2026",
+      "lastMatchIds": []
     }
   ],
   "tournaments": [
@@ -5541,7 +5580,8 @@
         "carreno_busta",
         "garin",
         "tabur",
-        "royer"
+        "royer",
+        "walton"
       ],
       "status": "ongoing"
     },
