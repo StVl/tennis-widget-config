@@ -2211,9 +2211,9 @@
       "opponentId": "sinner",
       "tournament": "Monte-Carlo Masters 2026",
       "stage": "R16",
-      "startAt": "2026-05-24T12:00:00+02:00",
+      "startAt": "2026-04-08T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
+      "status": "completed",
       "result": "won",
       "score": "6-1, 4-6, 6-3"
     },
@@ -2223,9 +2223,9 @@
       "opponentId": "bublik",
       "tournament": "Monte-Carlo Masters 2026",
       "stage": "R16",
-      "startAt": "2026-05-24T12:00:00+02:00",
+      "startAt": "2026-04-10T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
+      "status": "completed",
       "result": "won",
       "score": "6-1, 4-6, 6-3"
     },
@@ -3955,6 +3955,666 @@
       "status": "upcoming",
       "result": "",
       "score": ""
+    },
+    {
+      "id": "djokovic_rg_r2_2026",
+      "playerId": "djokovic",
+      "opponentId": "royer",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-27T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "royer_rg_r2_2026",
+      "playerId": "royer",
+      "opponentId": "djokovic",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-27T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "fearnley_rg_r1_2026",
+      "playerId": "fearnley",
+      "opponentId": "jm_cerundolo",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "jm_cerundolo_rg_r1_2026",
+      "playerId": "jm_cerundolo",
+      "opponentId": "fearnley",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "moutet_rg_r1_2026",
+      "playerId": "moutet",
+      "opponentId": "kopriva",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "kopriva_rg_r1_2026",
+      "playerId": "kopriva",
+      "opponentId": "moutet",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "rinderknech_rg_r1_2026",
+      "playerId": "rinderknech",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "darderi_rg_r1_2026",
+      "playerId": "darderi",
+      "opponentId": "ofner",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "ofner_rg_r1_2026",
+      "playerId": "ofner",
+      "opponentId": "darderi",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "shapovalov_rg_r1_2026",
+      "playerId": "shapovalov",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "griekspoor_rg_r1_2026",
+      "playerId": "griekspoor",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "shelton_rg_r1_2026",
+      "playerId": "shelton",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "kypson_rg_r1_2026",
+      "playerId": "kypson",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "norrie_rg_r1_2026",
+      "playerId": "norrie",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "cilic_rg_r1_2026",
+      "playerId": "cilic",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "vacherot_rg_r1_2026",
+      "playerId": "vacherot",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "cobolli_rg_r1_2026",
+      "playerId": "cobolli",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "giron_rg_r1_2026",
+      "playerId": "giron",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "popyrin_rg_r1_2026",
+      "playerId": "popyrin",
+      "opponentId": "svajda",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "svajda_rg_r1_2026",
+      "playerId": "svajda",
+      "opponentId": "popyrin",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "medvedev_rg_r1_2026",
+      "playerId": "medvedev",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "de_minaur_rg_r1_2026",
+      "playerId": "de_minaur",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "blockx_rg_r1_2026",
+      "playerId": "blockx",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "navone_rg_r1_2026",
+      "playerId": "navone",
+      "opponentId": "brooksby",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "brooksby_rg_r1_2026",
+      "playerId": "brooksby",
+      "opponentId": "navone",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "mensik_rg_r1_2026",
+      "playerId": "mensik",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-24T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-2, 6-4"
+    },
+    {
+      "id": "ugo_carabelli_rg_r1_2026",
+      "playerId": "ugo_carabelli",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "rublev_rg_r1_2026",
+      "playerId": "rublev",
+      "opponentId": "buse",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "buse_rg_r1_2026",
+      "playerId": "buse",
+      "opponentId": "rublev",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "ruud_rg_r1_2026",
+      "playerId": "ruud",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "medjedovic_rg_r1_2026",
+      "playerId": "medjedovic",
+      "opponentId": "hanfmann",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "hanfmann_rg_r1_2026",
+      "playerId": "hanfmann",
+      "opponentId": "medjedovic",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "sonego_rg_r1_2026",
+      "playerId": "sonego",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-24T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "7-6(3), 5-7, 6-2, 1-6, 6-4"
+    },
+    {
+      "id": "paul_rg_r1_2026",
+      "playerId": "paul",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "fonseca_rg_r1_2026",
+      "playerId": "fonseca",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-24T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "7-6(6), 6-4, 6-2"
+    },
+    {
+      "id": "royer_rg_r1_2026",
+      "playerId": "royer",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-24T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 6-2, 6-2"
+    },
+    {
+      "id": "mpetshi_perricard_rg_r1_2026",
+      "playerId": "mpetshi_perricard",
+      "opponentId": "djokovic",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-24T19:30:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "lost",
+      "score": "7-5, 5-7, 1-6, 4-6"
+    },
+    {
+      "id": "fritz_rg_r1_2026",
+      "playerId": "fritz",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-24T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "lost",
+      "score": "6-7(5), 6-7(5), 7-6(9), 1-6"
+    },
+    {
+      "id": "atmane_rg_r1_2026",
+      "playerId": "atmane",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "khachanov_rg_r1_2026",
+      "playerId": "khachanov",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-24T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "7-6, 6-3, 7-6"
+    },
+    {
+      "id": "opelka_rg_r1_2026",
+      "playerId": "opelka",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "fils_rg_r1_2026",
+      "playerId": "fils",
+      "opponentId": "wawrinka",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "halys_rg_r1_2026",
+      "playerId": "halys",
+      "opponentId": "bellucci",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "bellucci_rg_r1_2026",
+      "playerId": "bellucci",
+      "opponentId": "halys",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-26T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "zverev_rg_r1_2026",
+      "playerId": "zverev",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R128",
+      "startAt": "2026-05-24T13:00:00+02:00",
+      "surface": "clay",
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-4, 6-2"
+    },
+    {
+      "id": "davidovich_fokina_rg_r2_2026",
+      "playerId": "davidovich_fokina",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-28T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "machac_rg_r2_2026",
+      "playerId": "machac",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-28T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "zverev_rg_r2_2026",
+      "playerId": "zverev",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-28T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "sonego_rg_r2_2026",
+      "playerId": "sonego",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-28T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "khachanov_rg_r2_2026",
+      "playerId": "khachanov",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-28T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "duckworth_rg_r2_2026",
+      "playerId": "duckworth",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-28T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "fonseca_rg_r2_2026",
+      "playerId": "fonseca",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-28T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "borges_rg_r2_2026",
+      "playerId": "borges",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-28T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "kecmanovic_rg_r2_2026",
+      "playerId": "kecmanovic",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-28T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
+    },
+    {
+      "id": "mensik_rg_r2_2026",
+      "playerId": "mensik",
+      "opponentId": "TBD",
+      "tournament": "Roland Garros 2026",
+      "stage": "R64",
+      "startAt": "2026-05-28T13:00:00+02:00",
+      "surface": "clay",
+      "status": "upcoming",
+      "result": "",
+      "score": ""
     }
   ],
   "playerCards": [
@@ -3964,7 +4624,7 @@
       "lastMatchIds": [
         "alcaraz_mc_f_2026",
         "alcaraz_mc_sf_2026",
-        "alcaraz_mc_qf_2026"
+        "alcaraz_mc_r2_2026"
       ]
     },
     {
@@ -3978,7 +4638,7 @@
     },
     {
       "playerId": "djokovic",
-      "nextMatchId": null,
+      "nextMatchId": "djokovic_rg_r2_2026",
       "lastMatchIds": [
         "djokovic_rg_r1_2026",
         "djokovic_rome_r64_2026"
@@ -3986,11 +4646,11 @@
     },
     {
       "playerId": "zverev",
-      "nextMatchId": null,
+      "nextMatchId": "zverev_rg_r2_2026",
       "lastMatchIds": [
+        "zverev_rg_r1_2026",
         "zverev_rome_r16_2026",
-        "zverev_rome_r32_2026",
-        "zverev_rome_r64_2026"
+        "zverev_rome_r32_2026"
       ]
     },
     {
@@ -4013,7 +4673,7 @@
     },
     {
       "playerId": "medvedev",
-      "nextMatchId": null,
+      "nextMatchId": "medvedev_rg_r1_2026",
       "lastMatchIds": [
         "medvedev_rome_sf_2026",
         "medvedev_rome_r32_2026",
@@ -4022,7 +4682,7 @@
     },
     {
       "playerId": "shelton",
-      "nextMatchId": null,
+      "nextMatchId": "shelton_rg_r1_2026",
       "lastMatchIds": [
         "shelton_rome_r64_2026",
         "shelton_munich_f_2026",
@@ -4031,7 +4691,7 @@
     },
     {
       "playerId": "rublev",
-      "nextMatchId": null,
+      "nextMatchId": "rublev_rg_r1_2026",
       "lastMatchIds": [
         "rublev_rome_qf_2026",
         "rublev_rome_r64_2026",
@@ -4040,11 +4700,11 @@
     },
     {
       "playerId": "fils",
-      "nextMatchId": null,
+      "nextMatchId": "fils_rg_r1_2026",
       "lastMatchIds": [
         "fils_rome_r64_2026",
-        "fils_barcelona_f_2026",
-        "fils_barcelona_sf_2026"
+        "fils_madrid_sf_2026",
+        "fils_barcelona_f_2026"
       ]
     },
     {
@@ -4058,19 +4718,20 @@
       "playerId": "fritz",
       "nextMatchId": null,
       "lastMatchIds": [
+        "fritz_rg_r1_2026",
         "fritz_rome_r64_2026"
       ]
     },
     {
       "playerId": "de_minaur",
-      "nextMatchId": null,
+      "nextMatchId": "de_minaur_rg_r1_2026",
       "lastMatchIds": [
         "de_minaur_rome_r64_2026"
       ]
     },
     {
       "playerId": "cobolli",
-      "nextMatchId": null,
+      "nextMatchId": "cobolli_rg_r1_2026",
       "lastMatchIds": [
         "cobolli_rome_r32_2026",
         "cobolli_rome_r64_2026",
@@ -4079,24 +4740,25 @@
     },
     {
       "playerId": "blockx",
-      "nextMatchId": null,
+      "nextMatchId": "blockx_rg_r1_2026",
       "lastMatchIds": [
-        "zverev_rome_r32_2026",
         "blockx_rome_r64_2026",
         "blockx_madrid_sf_2026"
       ]
     },
     {
       "playerId": "fonseca",
-      "nextMatchId": null,
+      "nextMatchId": "fonseca_rg_r2_2026",
       "lastMatchIds": [
+        "fonseca_rg_r1_2026",
         "fonseca_rome_r64_2026"
       ]
     },
     {
       "playerId": "mensik",
-      "nextMatchId": null,
+      "nextMatchId": "mensik_rg_r2_2026",
       "lastMatchIds": [
+        "mensik_rg_r1_2026",
         "mensik_rome_r64_2026"
       ]
     },
@@ -4116,21 +4778,475 @@
     },
     {
       "playerId": "machac",
-      "nextMatchId": null,
+      "nextMatchId": "machac_rg_r2_2026",
       "lastMatchIds": [
         "machac_rg_r1_2026",
-        "medvedev_rome_r64_2026",
         "machac_rome_r128_2026"
       ]
     },
     {
       "playerId": "popyrin",
-      "nextMatchId": null,
+      "nextMatchId": "popyrin_rg_r1_2026",
       "lastMatchIds": [
-        "sinner_rome_r16_2026",
-        "mensik_rome_r64_2026",
         "popyrin_rome_r128_2026"
       ]
+    },
+    {
+      "playerId": "lehecka",
+      "nextMatchId": "lehecka_rg_r1_2026",
+      "lastMatchIds": [
+        "lehecka_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "khachanov",
+      "nextMatchId": "khachanov_rg_r2_2026",
+      "lastMatchIds": [
+        "khachanov_rg_r1_2026",
+        "khachanov_rome_qf_2026",
+        "khachanov_rome_r32_2026"
+      ]
+    },
+    {
+      "playerId": "paul",
+      "nextMatchId": "paul_rg_r1_2026",
+      "lastMatchIds": [
+        "paul_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "f_cerundolo",
+      "nextMatchId": "f_cerundolo_rg_r1_2026",
+      "lastMatchIds": [
+        "f_cerundolo_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "darderi",
+      "nextMatchId": "darderi_rg_r1_2026",
+      "lastMatchIds": [
+        "darderi_rome_sf_2026",
+        "darderi_rome_qf_2026",
+        "darderi_rome_r16_2026"
+      ]
+    },
+    {
+      "playerId": "tien",
+      "nextMatchId": "tien_rg_r1_2026",
+      "lastMatchIds": [
+        "tien_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "tiafoe",
+      "nextMatchId": "tiafoe_rg_r1_2026",
+      "lastMatchIds": [
+        "tiafoe_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "ruud",
+      "nextMatchId": "ruud_rg_r1_2026",
+      "lastMatchIds": [
+        "ruud_rome_f_2026",
+        "ruud_rome_sf_2026",
+        "ruud_rome_qf_2026"
+      ]
+    },
+    {
+      "playerId": "vacherot",
+      "nextMatchId": "vacherot_rg_r1_2026",
+      "lastMatchIds": [
+        "alcaraz_mc_r21_2026"
+      ]
+    },
+    {
+      "playerId": "norrie",
+      "nextMatchId": "norrie_rg_r1_2026",
+      "lastMatchIds": [
+        "norrie_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "draper",
+      "nextMatchId": null,
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "rinderknech",
+      "nextMatchId": "rinderknech_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "davidovich_fokina",
+      "nextMatchId": "davidovich_fokina_rg_r2_2026",
+      "lastMatchIds": [
+        "davidovich_fokina_rg_r1_2026",
+        "davidovich_fokina_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "etcheverry",
+      "nextMatchId": null,
+      "lastMatchIds": [
+        "etcheverry_rg_r1_2026"
+      ]
+    },
+    {
+      "playerId": "rune",
+      "nextMatchId": null,
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "griekspoor",
+      "nextMatchId": "griekspoor_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "humbert",
+      "nextMatchId": "humbert_rg_r1_2026",
+      "lastMatchIds": [
+        "humbert_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "moutet",
+      "nextMatchId": "moutet_rg_r1_2026",
+      "lastMatchIds": [
+        "moutet_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "nakashima",
+      "nextMatchId": "nakashima_rg_r1_2026",
+      "lastMatchIds": [
+        "nakashima_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "michelsen",
+      "nextMatchId": "michelsen_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "diallo",
+      "nextMatchId": null,
+      "lastMatchIds": [
+        "diallo_rg_r1_2026"
+      ]
+    },
+    {
+      "playerId": "munar",
+      "nextMatchId": "munar_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "shapovalov",
+      "nextMatchId": "shapovalov_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "tabilo",
+      "nextMatchId": "tabilo_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "brooksby",
+      "nextMatchId": "brooksby_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "korda",
+      "nextMatchId": null,
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "mannarino",
+      "nextMatchId": "mannarino_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "atmane",
+      "nextMatchId": "atmane_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "bergs",
+      "nextMatchId": null,
+      "lastMatchIds": [
+        "bergs_rg_r1_2026"
+      ]
+    },
+    {
+      "playerId": "marozsan",
+      "nextMatchId": null,
+      "lastMatchIds": [
+        "marozsan_rg_r1_2026"
+      ]
+    },
+    {
+      "playerId": "borges",
+      "nextMatchId": "borges_rg_r2_2026",
+      "lastMatchIds": [
+        "borges_rg_r1_2026"
+      ]
+    },
+    {
+      "playerId": "baez",
+      "nextMatchId": "baez_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "fucsovics",
+      "nextMatchId": "fucsovics_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "altmaier",
+      "nextMatchId": "altmaier_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "majchrzak",
+      "nextMatchId": "majchrzak_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "cilic",
+      "nextMatchId": "cilic_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "quinn",
+      "nextMatchId": "quinn_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "mpetshi_perricard",
+      "nextMatchId": null,
+      "lastMatchIds": [
+        "mpetshi_perricard_rg_r1_2026"
+      ]
+    },
+    {
+      "playerId": "kecmanovic",
+      "nextMatchId": "kecmanovic_rg_r2_2026",
+      "lastMatchIds": [
+        "kecmanovic_rg_r1_2026"
+      ]
+    },
+    {
+      "playerId": "buse",
+      "nextMatchId": "buse_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "navone",
+      "nextMatchId": "navone_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "hanfmann",
+      "nextMatchId": "hanfmann_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "van_de_zandschulp",
+      "nextMatchId": "van_de_zandschulp_rg_r1_2026",
+      "lastMatchIds": [
+        "van_de_zandschulp_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "sonego",
+      "nextMatchId": "sonego_rg_r2_2026",
+      "lastMatchIds": [
+        "sonego_rg_r1_2026"
+      ]
+    },
+    {
+      "playerId": "opelka",
+      "nextMatchId": "opelka_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "collignon",
+      "nextMatchId": "collignon_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "giron",
+      "nextMatchId": "giron_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "ugo_carabelli",
+      "nextMatchId": "ugo_carabelli_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "cazaux",
+      "nextMatchId": null,
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "jm_cerundolo",
+      "nextMatchId": "jm_cerundolo_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "kopriva",
+      "nextMatchId": "kopriva_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "royer",
+      "nextMatchId": "royer_rg_r2_2026",
+      "lastMatchIds": [
+        "royer_rg_r1_2026"
+      ]
+    },
+    {
+      "playerId": "hurkacz",
+      "nextMatchId": "hurkacz_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "bellucci",
+      "nextMatchId": "bellucci_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "dzumhur",
+      "nextMatchId": null,
+      "lastMatchIds": [
+        "dzumhur_rg_r1_2026"
+      ]
+    },
+    {
+      "playerId": "struff",
+      "nextMatchId": "struff_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "shevchenko",
+      "nextMatchId": "shevchenko_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "burruchaga",
+      "nextMatchId": "burruchaga_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "ofner",
+      "nextMatchId": "ofner_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "spizzirri",
+      "nextMatchId": "spizzirri_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "bautista_agut",
+      "nextMatchId": "bautista_agut_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "medjedovic",
+      "nextMatchId": "medjedovic_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "svajda",
+      "nextMatchId": "svajda_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "tirante",
+      "nextMatchId": null,
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "vukic",
+      "nextMatchId": "vukic_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "kovacevic",
+      "nextMatchId": "kovacevic_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "misolic",
+      "nextMatchId": null,
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "comesana",
+      "nextMatchId": "comesana_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "carreno_busta",
+      "nextMatchId": "carreno_busta_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "jodar",
+      "nextMatchId": "jodar_rg_r1_2026",
+      "lastMatchIds": [
+        "jodar_rome_qf_2026",
+        "jodar_rome_r64_2026"
+      ]
+    },
+    {
+      "playerId": "halys",
+      "nextMatchId": "halys_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "dimitrov",
+      "nextMatchId": null,
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "muller",
+      "nextMatchId": "muller_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "duckworth",
+      "nextMatchId": "duckworth_rg_r2_2026",
+      "lastMatchIds": [
+        "duckworth_rg_r1_2026"
+      ]
+    },
+    {
+      "playerId": "kypson",
+      "nextMatchId": "kypson_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "fearnley",
+      "nextMatchId": "fearnley_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "wawrinka",
+      "nextMatchId": "wawrinka_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "de_jong",
+      "nextMatchId": "de_jong_rg_r1_2026",
+      "lastMatchIds": []
+    },
+    {
+      "playerId": "garin",
+      "nextMatchId": "garin_rg_r1_2026",
+      "lastMatchIds": []
     }
   ],
   "tournaments": [
@@ -4424,7 +5540,8 @@
         "struff",
         "carreno_busta",
         "garin",
-        "tabur"
+        "tabur",
+        "royer"
       ],
       "status": "ongoing"
     },
