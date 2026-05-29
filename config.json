@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-29T16:52:11Z",
+  "updatedAt": "2026-05-29T17:47:17Z",
   "playStyles": [
     {
       "id": "aggressive_baseliner",
-      "name": "Агрессивный бейзлайнер",
+      "name": "Aggressive Baseliner",
       "description": [
-        "играет в основном с задней линии",
-        "постоянно давит темпом",
-        "старается закончить розыгрыш виннером"
+        "Dictates from the baseline.",
+        "Hunts winners off both wings.",
+        "Forces opponents into pure defense."
       ]
     },
     {
       "id": "counterpuncher",
-      "name": "Контрпанчер",
+      "name": "Counterpuncher",
       "description": [
-        "играет глубоко и стабильно",
-        "переживает атаку соперника",
-        "использует ошибки противника"
+        "Absorbs pace, gives nothing back easy.",
+        "Turns defense into offense in a single shot.",
+        "Wins by outlasting."
       ]
     },
     {
       "id": "all_court",
-      "name": "All-court player",
+      "name": "All-Court Player",
       "description": [
-        "умеет играть везде",
-        "меняет темп",
-        "комбинирует заднюю линию и игру у сетки"
+        "At home anywhere on court.",
+        "Shifts gears to break opponent's rhythm.",
+        "Closes points at the net."
       ]
     },
     {
       "id": "servebot",
       "name": "Servebot",
       "description": [
-        "подача — главный инструмент",
-        "короткие розыгрыши",
-        "много тай-брейков"
+        "Lets the serve do the talking.",
+        "Free points, short games.",
+        "Owns the tiebreak."
       ]
     },
     {
       "id": "grinder",
       "name": "Grinder",
       "description": [
-        "длинные розыгрыши",
-        "физическое давление",
-        "изматывание соперника"
+        "Lives for the long rally.",
+        "Wears opponents down set by set.",
+        "Wins on legs and willpower."
       ]
     }
   ],
