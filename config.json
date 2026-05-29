@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-29T13:33:52Z",
+  "updatedAt": "2026-05-29T16:52:11Z",
   "playStyles": [
     {
       "id": "aggressive_baseliner",
@@ -3530,9 +3530,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "4-6, 6-4, 4-6, 6-1, 7-6"
     },
     {
       "id": "altmaier_rg_r1_2026",
@@ -3542,9 +3542,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "6-4, 4-6, 6-4, 1-6, 6-7"
     },
     {
       "id": "tiafoe_rg_r1_2026",
@@ -3554,9 +3554,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-7, 6-4, 6-3"
     },
     {
       "id": "spizzirri_rg_r1_2026",
@@ -3566,9 +3566,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 7-6, 4-6, 3-6"
     },
     {
       "id": "bublik_rg_r1_2026",
@@ -3578,9 +3578,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "5-7, 7-6, 4-6, 5-7"
     },
     {
       "id": "struff_rg_r1_2026",
@@ -3590,9 +3590,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "7-5, 6-7, 6-4, 7-5"
     },
     {
       "id": "munar_rg_r1_2026",
@@ -3602,9 +3602,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 3-6, 6-2, 3-6"
     },
     {
       "id": "hurkacz_rg_r1_2026",
@@ -3614,9 +3614,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-3, 2-6, 6-3"
     },
     {
       "id": "muller_rg_r1_2026",
@@ -3626,9 +3626,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "2-6, 0-3 (retired)"
     },
     {
       "id": "tsitsipas_rg_r1_2026",
@@ -3638,9 +3638,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 3-0 (opponent retired)"
     },
     {
       "id": "collignon_rg_r1_2026",
@@ -3650,9 +3650,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-3, 7-6"
     },
     {
       "id": "vukic_rg_r1_2026",
@@ -3662,9 +3662,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 3-6, 6-7"
     },
     {
       "id": "baez_rg_r1_2026",
@@ -3674,9 +3674,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "6-2, 5-7, 2-6, 0-2 (retired)"
     },
     {
       "id": "burruchaga_rg_r1_2026",
@@ -3686,9 +3686,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "2-6, 7-5, 6-2, 2-0 (opponent retired)"
     },
     {
       "id": "nakashima_rg_r1_2026",
@@ -3698,9 +3698,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 7-5, 6-2"
     },
     {
       "id": "bautista_agut_rg_r1_2026",
@@ -3710,9 +3710,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "2-6, 5-7, 2-6"
     },
     {
       "id": "tabilo_rg_r1_2026",
@@ -3722,9 +3722,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-1, 6-3, 6-4"
     },
     {
       "id": "majchrzak_rg_r1_2026",
@@ -3734,9 +3734,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "1-6, 3-6, 4-6"
     },
     {
       "id": "f_cerundolo_rg_r1_2026",
@@ -3746,9 +3746,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-4, 6-7, 6-4"
     },
     {
       "id": "van_de_zandschulp_rg_r1_2026",
@@ -3758,9 +3758,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 4-6, 7-6, 4-6"
     },
     {
       "id": "humbert_rg_r1_2026",
@@ -3770,9 +3770,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-4, 6-3"
     },
     {
       "id": "mannarino_rg_r1_2026",
@@ -3782,9 +3782,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 4-6, 3-6"
     },
     {
       "id": "tien_rg_r1_2026",
@@ -3794,9 +3794,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-0, 2-6, 6-0, 6-2"
     },
     {
       "id": "garin_rg_r1_2026",
@@ -3806,9 +3806,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "0-6, 6-2, 0-6, 2-6"
     },
     {
       "id": "fucsovics_rg_r1_2026",
@@ -3818,9 +3818,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "7-6, 5-7, 1-6, 2-6"
     },
     {
       "id": "berrettini_rg_r1_2026",
@@ -3830,9 +3830,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-7, 7-5, 6-1, 6-2"
     },
     {
       "id": "quinn_rg_r1_2026",
@@ -3842,9 +3842,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "4-6, 6-7, 6-7"
     },
     {
       "id": "comesana_rg_r1_2026",
@@ -3854,9 +3854,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 7-6, 7-6"
     },
     {
       "id": "lehecka_rg_r1_2026",
@@ -3866,9 +3866,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 6-7, 3-6"
     },
     {
       "id": "carreno_busta_rg_r1_2026",
@@ -3878,9 +3878,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 7-6, 6-3"
     },
     {
       "id": "jodar_rg_r1_2026",
@@ -3890,9 +3890,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-1, 6-0, 6-4"
     },
     {
       "id": "kovacevic_rg_r1_2026",
@@ -3902,9 +3902,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "1-6, 0-6, 4-6"
     },
     {
       "id": "shevchenko_rg_r1_2026",
@@ -3914,9 +3914,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "2-6, 4-6, 2-6"
     },
     {
       "id": "michelsen_rg_r1_2026",
@@ -3926,9 +3926,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 6-4, 6-2"
     },
     {
       "id": "wawrinka_rg_r1_2026",
@@ -3938,9 +3938,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T15:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 6-3, 3-6, 4-6"
     },
     {
       "id": "de_jong_rg_r1_2026",
@@ -3950,9 +3950,9 @@
       "stage": "R128",
       "startAt": "2026-05-25T15:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 3-6, 6-3, 6-4"
     },
     {
       "id": "sinner_rg_r1_2026",
@@ -3962,9 +3962,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-1, 6-3, 6-4"
     },
     {
       "id": "tabur_rg_r1_2026",
@@ -3974,9 +3974,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T11:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "1-6, 3-6, 4-6"
     },
     {
       "id": "djokovic_rg_r2_2026",
@@ -3986,9 +3986,9 @@
       "stage": "R64",
       "startAt": "2026-05-27T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-2, 6-7, 6-3"
     },
     {
       "id": "royer_rg_r2_2026",
@@ -3998,9 +3998,9 @@
       "stage": "R64",
       "startAt": "2026-05-27T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 2-6, 7-6, 3-6"
     },
     {
       "id": "fearnley_rg_r1_2026",
@@ -4010,9 +4010,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "2-6, 6-7, 6-7"
     },
     {
       "id": "jm_cerundolo_rg_r1_2026",
@@ -4022,9 +4022,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 7-6, 7-6"
     },
     {
       "id": "moutet_rg_r1_2026",
@@ -4034,9 +4034,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 7-5, 4-6, 6-3, 3-6"
     },
     {
       "id": "kopriva_rg_r1_2026",
@@ -4046,9 +4046,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 5-7, 6-4, 3-6, 6-3"
     },
     {
       "id": "rinderknech_rg_r1_2026",
@@ -4058,9 +4058,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "7-6, 6-2, 6-3"
     },
     {
       "id": "darderi_rg_r1_2026",
@@ -4070,9 +4070,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "7-6, 6-2, 6-3"
     },
     {
       "id": "ofner_rg_r1_2026",
@@ -4082,9 +4082,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "6-7, 2-6, 3-6"
     },
     {
       "id": "shapovalov_rg_r1_2026",
@@ -4094,9 +4094,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "4-6, 5-7, 4-6"
     },
     {
       "id": "griekspoor_rg_r1_2026",
@@ -4106,9 +4106,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "7-6, 3-6, 6-7, 3-6"
     },
     {
       "id": "shelton_rg_r1_2026",
@@ -4118,9 +4118,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-3, 6-4"
     },
     {
       "id": "kypson_rg_r1_2026",
@@ -4130,7 +4130,7 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
+      "status": "completed",
       "result": "",
       "score": ""
     },
@@ -4142,9 +4142,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "6-7, 0-2 (retired)"
     },
     {
       "id": "cilic_rg_r1_2026",
@@ -4154,9 +4154,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "6-7, 2-6, 1-6"
     },
     {
       "id": "vacherot_rg_r1_2026",
@@ -4166,9 +4166,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-4, 3-6, 7-6"
     },
     {
       "id": "cobolli_rg_r1_2026",
@@ -4178,9 +4178,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 7-6, 6-3"
     },
     {
       "id": "giron_rg_r1_2026",
@@ -4190,9 +4190,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "5-7, 2-6, 4-6"
     },
     {
       "id": "popyrin_rg_r1_2026",
@@ -4202,9 +4202,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "6-3, 3-6, 6-7, 5-7"
     },
     {
       "id": "svajda_rg_r1_2026",
@@ -4214,9 +4214,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "3-6, 6-3, 7-6, 7-5"
     },
     {
       "id": "medvedev_rg_r1_2026",
@@ -4226,9 +4226,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "2-6, 6-1, 1-6, 6-1, 4-6"
     },
     {
       "id": "de_minaur_rg_r1_2026",
@@ -4238,9 +4238,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 6-4, 6-2"
     },
     {
       "id": "blockx_rg_r1_2026",
@@ -4250,9 +4250,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "(walkover)"
     },
     {
       "id": "navone_rg_r1_2026",
@@ -4262,9 +4262,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 6-4, 6-4"
     },
     {
       "id": "brooksby_rg_r1_2026",
@@ -4274,9 +4274,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "4-6, 4-6, 4-6"
     },
     {
       "id": "mensik_rg_r1_2026",
@@ -4298,9 +4298,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "7-6, 6-3, 6-3"
     },
     {
       "id": "rublev_rg_r1_2026",
@@ -4310,9 +4310,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 6-7, 6-3, 7-5"
     },
     {
       "id": "buse_rg_r1_2026",
@@ -4322,9 +4322,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 7-6, 3-6, 5-7"
     },
     {
       "id": "ruud_rg_r1_2026",
@@ -4334,9 +4334,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 7-6, 5-7, 0-6, 6-2"
     },
     {
       "id": "medjedovic_rg_r1_2026",
@@ -4346,9 +4346,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 2-6, 4-6"
     },
     {
       "id": "hanfmann_rg_r1_2026",
@@ -4358,7 +4358,7 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
+      "status": "completed",
       "result": "",
       "score": ""
     },
@@ -4382,9 +4382,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "4-6, 6-3, 7-5, 6-4"
     },
     {
       "id": "fonseca_rg_r1_2026",
@@ -4442,9 +4442,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "7-6, 2-6, 6-4, 3-6, 5-7"
     },
     {
       "id": "khachanov_rg_r1_2026",
@@ -4466,7 +4466,7 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
+      "status": "completed",
       "result": "",
       "score": ""
     },
@@ -4478,7 +4478,7 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
+      "status": "completed",
       "result": "",
       "score": ""
     },
@@ -4490,9 +4490,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 7-6, 7-6"
     },
     {
       "id": "bellucci_rg_r1_2026",
@@ -4502,7 +4502,7 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
+      "status": "completed",
       "result": "",
       "score": ""
     },
@@ -4526,9 +4526,9 @@
       "stage": "R64",
       "startAt": "2026-05-28T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "6-4, 6-7, 1-6, 3-6"
     },
     {
       "id": "machac_rg_r2_2026",
@@ -4538,9 +4538,9 @@
       "stage": "R64",
       "startAt": "2026-05-28T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "4-6, 2-6, 2-6"
     },
     {
       "id": "zverev_rg_r2_2026",
@@ -4550,9 +4550,9 @@
       "stage": "R64",
       "startAt": "2026-05-28T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-4, 6-2, 6-2"
     },
     {
       "id": "sonego_rg_r2_2026",
@@ -4562,9 +4562,9 @@
       "stage": "R64",
       "startAt": "2026-05-28T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "3-6, 2-6, 4-6"
     },
     {
       "id": "khachanov_rg_r2_2026",
@@ -4574,9 +4574,9 @@
       "stage": "R64",
       "startAt": "2026-05-28T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "7-6, 5-7, 6-1, 7-6"
     },
     {
       "id": "duckworth_rg_r2_2026",
@@ -4586,9 +4586,9 @@
       "stage": "R64",
       "startAt": "2026-05-28T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "1-6, 7-6, 4-6, 5-7"
     },
     {
       "id": "fonseca_rg_r2_2026",
@@ -4598,9 +4598,9 @@
       "stage": "R64",
       "startAt": "2026-05-28T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "3-6, 4-6, 6-3, 6-1, 6-2"
     },
     {
       "id": "borges_rg_r2_2026",
@@ -4610,9 +4610,9 @@
       "stage": "R64",
       "startAt": "2026-05-28T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "3-6, 6-2, 6-1, 6-2"
     },
     {
       "id": "kecmanovic_rg_r2_2026",
@@ -4622,9 +4622,9 @@
       "stage": "R64",
       "startAt": "2026-05-28T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "lost",
+      "score": "6-3, 2-6, 1-6, 2-6"
     },
     {
       "id": "mensik_rg_r2_2026",
@@ -4634,9 +4634,9 @@
       "stage": "R64",
       "startAt": "2026-05-28T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-3, 2-6, 6-4, 1-6, 7-6"
     },
     {
       "id": "walton_rg_r1_2026",
@@ -4646,9 +4646,9 @@
       "stage": "R128",
       "startAt": "2026-05-26T13:00:00+02:00",
       "surface": "clay",
-      "status": "upcoming",
-      "result": "",
-      "score": ""
+      "status": "completed",
+      "result": "won",
+      "score": "6-2, 1-6, 6-1, 1-6, 6-4"
     },
     {
       "id": "fonseca_rg_r64_2026",
@@ -4843,34 +4843,34 @@
     },
     {
       "playerId": "altmaier",
-      "nextMatchId": "altmaier_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "atmane",
-      "nextMatchId": "atmane_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "auger_aliassime",
-      "nextMatchId": "auger_aliassime_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "auger_aliassime_rome_r64_2026"
       ]
     },
     {
       "playerId": "baez",
-      "nextMatchId": "baez_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "bautista_agut",
-      "nextMatchId": "bautista_agut_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "bellucci",
-      "nextMatchId": "bellucci_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
@@ -4882,14 +4882,14 @@
     },
     {
       "playerId": "berrettini",
-      "nextMatchId": "berrettini_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "berrettini_rome_r128_2026"
       ]
     },
     {
       "playerId": "blockx",
-      "nextMatchId": "blockx_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "blockx_rome_r64_2026",
         "blockx_madrid_sf_2026"
@@ -4897,7 +4897,7 @@
     },
     {
       "playerId": "borges",
-      "nextMatchId": "borges_rg_r2_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "borges_rg_r128_2026",
         "borges_rg_r1_2026"
@@ -4905,12 +4905,12 @@
     },
     {
       "playerId": "brooksby",
-      "nextMatchId": "brooksby_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "bublik",
-      "nextMatchId": "bublik_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "bublik_rome_r64_2026",
         "bublik_munich_r16_2026",
@@ -4919,17 +4919,17 @@
     },
     {
       "playerId": "burruchaga",
-      "nextMatchId": "burruchaga_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "buse",
-      "nextMatchId": "buse_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "carreno_busta",
-      "nextMatchId": "carreno_busta_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "carreno_busta_rg_r128_2026"
       ]
@@ -4941,12 +4941,12 @@
     },
     {
       "playerId": "cilic",
-      "nextMatchId": "cilic_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "cobolli",
-      "nextMatchId": "cobolli_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "cobolli_rome_r32_2026",
         "cobolli_rome_r64_2026",
@@ -4955,17 +4955,17 @@
     },
     {
       "playerId": "collignon",
-      "nextMatchId": "collignon_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "comesana",
-      "nextMatchId": "comesana_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "darderi",
-      "nextMatchId": "darderi_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "darderi_rome_sf_2026",
         "darderi_rome_qf_2026",
@@ -4974,7 +4974,7 @@
     },
     {
       "playerId": "davidovich_fokina",
-      "nextMatchId": "davidovich_fokina_rg_r2_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "davidovich_fokina_rg_r1_2026",
         "davidovich_fokina_rome_r64_2026"
@@ -4982,12 +4982,12 @@
     },
     {
       "playerId": "de_jong",
-      "nextMatchId": "de_jong_rg_r1_2026",
+      "nextMatchId": "de_jong_rg_r64_2026",
       "lastMatchIds": []
     },
     {
       "playerId": "de_minaur",
-      "nextMatchId": "de_minaur_rg_r1_2026",
+      "nextMatchId": "de_minaur_rg_r64_2026",
       "lastMatchIds": [
         "de_minaur_rome_r64_2026"
       ]
@@ -5006,7 +5006,7 @@
     },
     {
       "playerId": "djokovic",
-      "nextMatchId": "djokovic_rg_r2_2026",
+      "nextMatchId": "djokovic_rg_r64_2026",
       "lastMatchIds": [
         "djokovic_rg_r1_2026",
         "djokovic_rome_r64_2026"
@@ -5019,7 +5019,7 @@
     },
     {
       "playerId": "duckworth",
-      "nextMatchId": "duckworth_rg_r2_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "duckworth_rg_r1_2026"
       ]
@@ -5040,19 +5040,19 @@
     },
     {
       "playerId": "f_cerundolo",
-      "nextMatchId": "f_cerundolo_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "f_cerundolo_rome_r64_2026"
       ]
     },
     {
       "playerId": "fearnley",
-      "nextMatchId": "fearnley_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "fils",
-      "nextMatchId": "fils_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "fils_rome_r64_2026",
         "fils_madrid_sf_2026",
@@ -5061,7 +5061,7 @@
     },
     {
       "playerId": "fonseca",
-      "nextMatchId": "fonseca_rg_r2_2026",
+      "nextMatchId": "fonseca_rg_r64_2026",
       "lastMatchIds": [
         "fonseca_rg_r1_2026",
         "fonseca_rome_r64_2026"
@@ -5077,54 +5077,54 @@
     },
     {
       "playerId": "fucsovics",
-      "nextMatchId": "fucsovics_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "garin",
-      "nextMatchId": "garin_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "giron",
-      "nextMatchId": "giron_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "griekspoor",
-      "nextMatchId": "griekspoor_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "halys",
-      "nextMatchId": "halys_rg_r1_2026",
+      "nextMatchId": "halys_rg_r64_2026",
       "lastMatchIds": []
     },
     {
       "playerId": "hanfmann",
-      "nextMatchId": "hanfmann_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "humbert",
-      "nextMatchId": "humbert_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "humbert_rome_r64_2026"
       ]
     },
     {
       "playerId": "hurkacz",
-      "nextMatchId": "hurkacz_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "jm_cerundolo",
-      "nextMatchId": "jm_cerundolo_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "jodar",
-      "nextMatchId": "jodar_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "jodar_rome_qf_2026",
         "jodar_rome_r64_2026"
@@ -5132,14 +5132,14 @@
     },
     {
       "playerId": "kecmanovic",
-      "nextMatchId": "kecmanovic_rg_r2_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "kecmanovic_rg_r1_2026"
       ]
     },
     {
       "playerId": "khachanov",
-      "nextMatchId": "khachanov_rg_r2_2026",
+      "nextMatchId": "khachanov_rg_r64_2026",
       "lastMatchIds": [
         "khachanov_rg_r1_2026",
         "khachanov_rome_qf_2026",
@@ -5148,7 +5148,7 @@
     },
     {
       "playerId": "kopriva",
-      "nextMatchId": "kopriva_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
@@ -5158,24 +5158,24 @@
     },
     {
       "playerId": "kovacevic",
-      "nextMatchId": "kovacevic_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "kypson",
-      "nextMatchId": "kypson_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "lehecka",
-      "nextMatchId": "lehecka_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "lehecka_rome_r64_2026"
       ]
     },
     {
       "playerId": "machac",
-      "nextMatchId": "machac_rg_r2_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "machac_rg_r1_2026",
         "machac_rome_r128_2026"
@@ -5183,12 +5183,12 @@
     },
     {
       "playerId": "majchrzak",
-      "nextMatchId": "majchrzak_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "mannarino",
-      "nextMatchId": "mannarino_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
@@ -5200,12 +5200,12 @@
     },
     {
       "playerId": "medjedovic",
-      "nextMatchId": "medjedovic_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "medvedev",
-      "nextMatchId": "medvedev_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "medvedev_rome_sf_2026",
         "medvedev_rome_r32_2026",
@@ -5214,7 +5214,7 @@
     },
     {
       "playerId": "mensik",
-      "nextMatchId": "mensik_rg_r2_2026",
+      "nextMatchId": "mensik_rg_r64_2026",
       "lastMatchIds": [
         "mensik_rg_r1_2026",
         "mensik_rome_r64_2026"
@@ -5222,7 +5222,7 @@
     },
     {
       "playerId": "michelsen",
-      "nextMatchId": "michelsen_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
@@ -5232,7 +5232,7 @@
     },
     {
       "playerId": "moutet",
-      "nextMatchId": "moutet_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "moutet_rome_r64_2026"
       ]
@@ -5246,12 +5246,12 @@
     },
     {
       "playerId": "muller",
-      "nextMatchId": "muller_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "munar",
-      "nextMatchId": "munar_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
@@ -5265,67 +5265,67 @@
     },
     {
       "playerId": "nakashima",
-      "nextMatchId": "nakashima_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "nakashima_rome_r64_2026"
       ]
     },
     {
       "playerId": "navone",
-      "nextMatchId": "navone_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "norrie",
-      "nextMatchId": "norrie_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "norrie_rome_r64_2026"
       ]
     },
     {
       "playerId": "ofner",
-      "nextMatchId": "ofner_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "opelka",
-      "nextMatchId": "opelka_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "paul",
-      "nextMatchId": "paul_rg_r1_2026",
+      "nextMatchId": "paul_rg_r64_2026",
       "lastMatchIds": [
         "paul_rome_r64_2026"
       ]
     },
     {
       "playerId": "popyrin",
-      "nextMatchId": "popyrin_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "popyrin_rome_r128_2026"
       ]
     },
     {
       "playerId": "quinn",
-      "nextMatchId": "quinn_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "rinderknech",
-      "nextMatchId": "rinderknech_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "royer",
-      "nextMatchId": "royer_rg_r2_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "royer_rg_r1_2026"
       ]
     },
     {
       "playerId": "rublev",
-      "nextMatchId": "rublev_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "rublev_rg_r128_2026",
         "rublev_rome_qf_2026",
@@ -5339,7 +5339,7 @@
     },
     {
       "playerId": "ruud",
-      "nextMatchId": "ruud_rg_r1_2026",
+      "nextMatchId": "ruud_rg_r64_2026",
       "lastMatchIds": [
         "ruud_rome_f_2026",
         "ruud_rome_sf_2026",
@@ -5348,12 +5348,12 @@
     },
     {
       "playerId": "shapovalov",
-      "nextMatchId": "shapovalov_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "shelton",
-      "nextMatchId": "shelton_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "shelton_rome_r64_2026",
         "shelton_munich_f_2026",
@@ -5362,12 +5362,12 @@
     },
     {
       "playerId": "shevchenko",
-      "nextMatchId": "shevchenko_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "sinner",
-      "nextMatchId": "sinner_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "sinner_rome_sf_2026",
         "sinner_rome_f_2026",
@@ -5376,46 +5376,46 @@
     },
     {
       "playerId": "sonego",
-      "nextMatchId": "sonego_rg_r2_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "sonego_rg_r1_2026"
       ]
     },
     {
       "playerId": "spizzirri",
-      "nextMatchId": "spizzirri_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "struff",
-      "nextMatchId": "struff_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "svajda",
-      "nextMatchId": "svajda_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "tabilo",
-      "nextMatchId": "tabilo_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "tabur",
-      "nextMatchId": "tabur_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "tiafoe",
-      "nextMatchId": "tiafoe_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "tiafoe_rome_r64_2026"
       ]
     },
     {
       "playerId": "tien",
-      "nextMatchId": "tien_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "tien_rome_r64_2026"
       ]
@@ -5429,48 +5429,48 @@
     },
     {
       "playerId": "tsitsipas",
-      "nextMatchId": "tsitsipas_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "tsitsipas_rome_r128_2026"
       ]
     },
     {
       "playerId": "ugo_carabelli",
-      "nextMatchId": "ugo_carabelli_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "vacherot",
-      "nextMatchId": "vacherot_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "alcaraz_mc_r21_2026"
       ]
     },
     {
       "playerId": "van_de_zandschulp",
-      "nextMatchId": "van_de_zandschulp_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": [
         "van_de_zandschulp_rome_r64_2026"
       ]
     },
     {
       "playerId": "vukic",
-      "nextMatchId": "vukic_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "walton",
-      "nextMatchId": "walton_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "wawrinka",
-      "nextMatchId": "wawrinka_rg_r1_2026",
+      "nextMatchId": null,
       "lastMatchIds": []
     },
     {
       "playerId": "zverev",
-      "nextMatchId": "zverev_rg_r2_2026",
+      "nextMatchId": "zverev_rg_r64_2026",
       "lastMatchIds": [
         "zverev_rg_r1_2026",
         "zverev_rome_r16_2026",
